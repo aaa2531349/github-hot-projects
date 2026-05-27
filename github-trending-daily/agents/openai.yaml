@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Trending Daily"
+  short_description: "Fetch and summarize the top 10 trending GitHub repositories."
+  default_prompt: "推送今天 GitHub 上 10 个热门项目，包含链接、简介、语言、star 数和推荐理由。"

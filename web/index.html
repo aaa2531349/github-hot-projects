@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GitHub 每日雷达</title>
+    <meta name="description" content="每日 GitHub 热门项目 Top 10 展示页" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="background-grid" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="GitHub 每日雷达首页">
+        <span class="brand-mark">◆</span>
+        <span>GitHub 每日雷达</span>
+      </a>
+      <nav class="nav" aria-label="页面导航">
+        <a href="#rank">榜单</a>
+        <a href="#signals">信号</a>
+        <a href="https://github.com/trending" target="_blank" rel="noreferrer">趋势源</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <div class="system-line">
+            <span class="live-dot"></span>
+            <span id="issue-date">正在加载</span>
+            <span>每日 11:00 更新</span>
+          </div>
+          <h1 id="hero-title">A daily radar for repositories moving fast.</h1>
+          <p class="lede">把 GitHub Trending 里的短时爆发项目整理成一张清爽的开发者看板：新鲜度、语言分布、star 增长和项目价值，一眼扫完。</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#rank">查看今日榜单</a>
+            <a class="secondary-action" href="#signals">趋势摘要</a>
+            <label class="date-filter" id="date-filter" for="date-picker" role="button" tabindex="0">
+              <span>选择日期</span>
+              <input id="date-picker" type="date" aria-label="选择历史榜单日期" />
+            </label>
+          </div>
+        </div>
+
+        <aside class="command-panel" aria-label="今日雷达摘要">
+          <div class="panel-header">
+            <span>雷达摘要</span>
+            <strong id="issue-count">前 10</strong>
+          </div>
+          <div id="spotlight" class="spotlight"></div>
+          <div id="mini-list" class="mini-list"></div>
+        </aside>
+      </section>
+
+      <section class="metrics" id="signals" aria-labelledby="signals-title">
+        <div>
+          <p class="eyebrow">趋势信号</p>
+          <h2 id="signals-title">今日趋势信号</h2>
+        </div>
+        <div class="signal-grid" id="signal-grid"></div>
+      </section>
+
+      <section class="rank-section" id="rank" aria-labelledby="rank-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">今日排行</p>
+            <h2 id="rank-title">今日推送</h2>
+          </div>
+          <p id="rank-note">优先展示最近 7 天没有推过的新鲜项目；如果候选不足，再补入仍然热门的重复项目。</p>
+        </div>
+        <div class="repo-board" id="repo-grid" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer>
+      <span>为每日 GitHub 项目发现而建。</span>
+      <span id="data-source">来源：GitHub Trending</span>
+    </footer>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
