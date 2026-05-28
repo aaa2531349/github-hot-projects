@@ -31,5 +31,10 @@ web/scripts/update_web_data.py --record-history
 
 本仓库包含 GitHub Actions 工作流，会把 `web/` 作为静态站点发布到 GitHub Pages。
 
-仓库创建后，在 GitHub 仓库设置里将 Pages 的 Source 设为 `GitHub Actions`。
+公网地址：
 
+```text
+https://aaa2531349.github.io/github-hot-projects/
+```
+
+GitHub Pages 的 Source 使用 `GitHub Actions`。

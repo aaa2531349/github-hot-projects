@@ -33,4 +33,5 @@
 - 2026-05-27 22:07 Asia/Shanghai - 根据浏览器评论扩大日期筛选控件热区；点击整个 `date-filter` 区域或键盘 Enter/Space 都会触发原生日期弹窗，并保留焦点样式。
 - 2026-05-27 22:15 Asia/Shanghai - 准备 GitHub Pages 发布结构：新增 `.gitignore`、`README.md` 和 `.github/workflows/deploy-pages.yml`，工作流会将 `web/` 目录发布为静态站点。
 - 2026-05-28 10:39 Asia/Shanghai - 已将项目推送到 GitHub 仓库 `aaa2531349/github-`，启用 GitHub Pages workflow 部署，公网地址为 `https://aaa2531349.github.io/github-/`；每日自动化更新为刷新数据、提交推送到 GitHub Pages 仓库并只发送公网链接。
+- 2026-05-28 10:46 Asia/Shanghai - 将 GitHub 仓库从 `aaa2531349/github-` 重命名为 `aaa2531349/github-hot-projects`；更新本地 `origin`、每日自动化公网链接和 README；新公网地址为 `https://aaa2531349.github.io/github-hot-projects/`。
 - 2026-05-27 22:11 Asia/Shanghai - 将每日自动化调整为 11:00 只更新网站数据与历史归档，并在聊天中发送网站链接 `http://localhost:8787/`，不再展开完整 Top 10 推送内容。
