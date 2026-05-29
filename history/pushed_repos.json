@@ -1,11 +1,20 @@
 {
-  "updated_at": "2026-05-28T11:01:59",
+  "updated_at": "2026-05-29T11:02:20",
   "repos": {
+    "DigitalPlatDev/FreeDomain": [
+      "2026-05-29"
+    ],
+    "EveryInc/compound-engineering-plugin": [
+      "2026-05-29"
+    ],
     "Leonxlnx/taste-skill": [
       "2026-05-28"
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
+    ],
+    "OpenMOSS/MOSS-TTS": [
+      "2026-05-29"
     ],
     "affaan-m/ECC": [
       "2026-05-28"
@@ -13,23 +22,44 @@
     "anthropics/knowledge-work-plugins": [
       "2026-05-28"
     ],
+    "anthropics/skills": [
+      "2026-05-29"
+    ],
+    "byoungd/English-level-up-tips": [
+      "2026-05-29"
+    ],
+    "codecrafters-io/build-your-own-x": [
+      "2026-05-29"
+    ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
     ],
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
     ],
+    "microsoft/markitdown": [
+      "2026-05-29"
+    ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28"
     ],
+    "obra/superpowers": [
+      "2026-05-29"
+    ],
     "p-e-w/heretic": [
       "2026-05-28"
+    ],
+    "revfactory/harness": [
+      "2026-05-29"
     ],
     "shiyu-coder/Kronos": [
       "2026-05-28"
     ],
     "twentyhq/twenty": [
       "2026-05-28"
+    ],
+    "unclecode/crawl4ai": [
+      "2026-05-29"
     ]
   }
 }

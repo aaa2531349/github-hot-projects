@@ -35,4 +35,5 @@
 - 2026-05-28 10:39 Asia/Shanghai - 已将项目推送到 GitHub 仓库 `aaa2531349/github-`，启用 GitHub Pages workflow 部署，公网地址为 `https://aaa2531349.github.io/github-/`；每日自动化更新为刷新数据、提交推送到 GitHub Pages 仓库并只发送公网链接。
 - 2026-05-28 10:46 Asia/Shanghai - 将 GitHub 仓库从 `aaa2531349/github-` 重命名为 `aaa2531349/github-hot-projects`；更新本地 `origin`、每日自动化公网链接和 README；新公网地址为 `https://aaa2531349.github.io/github-hot-projects/`。
 - 2026-05-28 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-05-28.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介，准备提交并部署到 GitHub Pages。
+- 2026-05-29 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-05-29.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介，准备提交并部署到 GitHub Pages。
 - 2026-05-27 22:11 Asia/Shanghai - 将每日自动化调整为 11:00 只更新网站数据与历史归档，并在聊天中发送网站链接 `http://localhost:8787/`，不再展开完整 Top 10 推送内容。
