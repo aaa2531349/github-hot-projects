@@ -1,11 +1,20 @@
 {
-  "updated_at": "2026-05-29T11:02:20",
+  "updated_at": "2026-05-31T11:01:35",
   "repos": {
+    "Crosstalk-Solutions/project-nomad": [
+      "2026-05-31"
+    ],
+    "DataTalksClub/data-engineering-zoomcamp": [
+      "2026-05-31"
+    ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
     ],
     "EveryInc/compound-engineering-plugin": [
       "2026-05-29"
+    ],
+    "FareedKhan-dev/train-llm-from-scratch": [
+      "2026-05-31"
     ],
     "Leonxlnx/taste-skill": [
       "2026-05-28"
@@ -13,11 +22,17 @@
     "Lum1104/Understand-Anything": [
       "2026-05-28"
     ],
+    "OpenBMB/VoxCPM": [
+      "2026-05-31"
+    ],
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
     ],
     "affaan-m/ECC": [
       "2026-05-28"
+    ],
+    "anthropics/claude-code": [
+      "2026-05-31"
     ],
     "anthropics/knowledge-work-plugins": [
       "2026-05-28"
@@ -28,8 +43,17 @@
     "byoungd/English-level-up-tips": [
       "2026-05-29"
     ],
+    "chen08209/FlClash": [
+      "2026-05-31"
+    ],
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
+    ],
+    "cursor/plugins": [
+      "2026-05-31"
+    ],
+    "galilai-group/stable-worldmodel": [
+      "2026-05-31"
     ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
@@ -51,6 +75,12 @@
     ],
     "revfactory/harness": [
       "2026-05-29"
+    ],
+    "run-llama/liteparse": [
+      "2026-05-31"
+    ],
+    "ruvnet/RuView": [
+      "2026-05-31"
     ],
     "shiyu-coder/Kronos": [
       "2026-05-28"
