@@ -1,8 +1,11 @@
 {
-  "updated_at": "2026-05-31T11:01:35",
+  "updated_at": "2026-06-02T11:01:59",
   "repos": {
     "Crosstalk-Solutions/project-nomad": [
       "2026-05-31"
+    ],
+    "D4Vinci/Scrapling": [
+      "2026-06-02"
     ],
     "DataTalksClub/data-engineering-zoomcamp": [
       "2026-05-31"
@@ -28,6 +31,9 @@
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
     ],
+    "TauricResearch/TradingAgents": [
+      "2026-06-02"
+    ],
     "affaan-m/ECC": [
       "2026-05-28"
     ],
@@ -43,6 +49,9 @@
     "byoungd/English-level-up-tips": [
       "2026-05-29"
     ],
+    "can1357/oh-my-pi": [
+      "2026-06-02"
+    ],
     "chen08209/FlClash": [
       "2026-05-31"
     ],
@@ -52,8 +61,14 @@
     "cursor/plugins": [
       "2026-05-31"
     ],
+    "dmtrKovalenko/fff": [
+      "2026-06-02"
+    ],
     "galilai-group/stable-worldmodel": [
       "2026-05-31"
+    ],
+    "godotengine/godot": [
+      "2026-06-02"
     ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
@@ -67,11 +82,20 @@
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28"
     ],
+    "nesquena/hermes-webui": [
+      "2026-06-02"
+    ],
     "obra/superpowers": [
       "2026-05-29"
     ],
     "p-e-w/heretic": [
       "2026-05-28"
+    ],
+    "pbakaus/impeccable": [
+      "2026-06-02"
+    ],
+    "pewdiepie-archdaemon/odysseus": [
+      "2026-06-02"
     ],
     "revfactory/harness": [
       "2026-05-29"
@@ -84,6 +108,12 @@
     ],
     "shiyu-coder/Kronos": [
       "2026-05-28"
+    ],
+    "stefan-jansen/machine-learning-for-trading": [
+      "2026-06-02"
+    ],
+    "supermemoryai/supermemory": [
+      "2026-06-02"
     ],
     "twentyhq/twenty": [
       "2026-05-28"
