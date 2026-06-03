@@ -1,6 +1,9 @@
 {
-  "updated_at": "2026-06-02T11:01:59",
+  "updated_at": "2026-06-03T11:01:48",
   "repos": {
+    "BigPizzaV3/CodexPlusPlus": [
+      "2026-06-03"
+    ],
     "Crosstalk-Solutions/project-nomad": [
       "2026-05-31"
     ],
@@ -16,6 +19,9 @@
     "EveryInc/compound-engineering-plugin": [
       "2026-05-29"
     ],
+    "FULU-Foundation/OrcaSlicer-bambulab": [
+      "2026-06-03"
+    ],
     "FareedKhan-dev/train-llm-from-scratch": [
       "2026-05-31"
     ],
@@ -25,6 +31,9 @@
     "Lum1104/Understand-Anything": [
       "2026-05-28"
     ],
+    "Open-LLM-VTuber/Open-LLM-VTuber": [
+      "2026-06-03"
+    ],
     "OpenBMB/VoxCPM": [
       "2026-05-31"
     ],
@@ -33,6 +42,9 @@
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
+    ],
+    "V4bel/dirtyfrag": [
+      "2026-06-03"
     ],
     "affaan-m/ECC": [
       "2026-05-28"
@@ -46,6 +58,9 @@
     "anthropics/skills": [
       "2026-05-29"
     ],
+    "antirez/ds4": [
+      "2026-06-03"
+    ],
     "byoungd/English-level-up-tips": [
       "2026-05-29"
     ],
@@ -54,6 +69,9 @@
     ],
     "chen08209/FlClash": [
       "2026-05-31"
+    ],
+    "chopratejas/headroom": [
+      "2026-06-03"
     ],
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
@@ -76,6 +94,9 @@
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
     ],
+    "jamwithai/production-agentic-rag-course": [
+      "2026-06-03"
+    ],
     "microsoft/markitdown": [
       "2026-05-29"
     ],
@@ -84,6 +105,9 @@
     ],
     "nesquena/hermes-webui": [
       "2026-06-02"
+    ],
+    "nexu-io/html-anything": [
+      "2026-06-03"
     ],
     "obra/superpowers": [
       "2026-05-29"
@@ -96,6 +120,9 @@
     ],
     "pewdiepie-archdaemon/odysseus": [
       "2026-06-02"
+    ],
+    "reconurge/flowsint": [
+      "2026-06-03"
     ],
     "revfactory/harness": [
       "2026-05-29"
@@ -120,6 +147,9 @@
     ],
     "unclecode/crawl4ai": [
       "2026-05-29"
+    ],
+    "vercel-labs/zerolang": [
+      "2026-06-03"
     ]
   }
 }
