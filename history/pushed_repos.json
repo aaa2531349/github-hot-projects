@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T11:01:48",
+  "updated_at": "2026-06-04T11:01:07",
   "repos": {
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
@@ -25,11 +25,17 @@
     "FareedKhan-dev/train-llm-from-scratch": [
       "2026-05-31"
     ],
+    "HKUDS/Vibe-Trading": [
+      "2026-06-04"
+    ],
     "Leonxlnx/taste-skill": [
       "2026-05-28"
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
+    ],
+    "NousResearch/hermes-agent": [
+      "2026-06-04"
     ],
     "Open-LLM-VTuber/Open-LLM-VTuber": [
       "2026-06-03"
@@ -60,6 +66,9 @@
     ],
     "antirez/ds4": [
       "2026-06-03"
+    ],
+    "aquasecurity/trivy": [
+      "2026-06-04"
     ],
     "byoungd/English-level-up-tips": [
       "2026-05-29"
@@ -97,6 +106,15 @@
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
     ],
+    "jwasham/coding-interview-university": [
+      "2026-06-04"
+    ],
+    "lyogavin/airllm": [
+      "2026-06-04"
+    ],
+    "microsoft/SkillOpt": [
+      "2026-06-04"
+    ],
     "microsoft/markitdown": [
       "2026-05-29"
     ],
@@ -112,11 +130,20 @@
     "obra/superpowers": [
       "2026-05-29"
     ],
+    "odoo/odoo": [
+      "2026-06-04"
+    ],
+    "opendataloader-project/opendataloader-pdf": [
+      "2026-06-04"
+    ],
     "p-e-w/heretic": [
       "2026-05-28"
     ],
     "pbakaus/impeccable": [
       "2026-06-02"
+    ],
+    "perplexityai/bumblebee": [
+      "2026-06-04"
     ],
     "pewdiepie-archdaemon/odysseus": [
       "2026-06-02"
@@ -135,6 +162,9 @@
     ],
     "shiyu-coder/Kronos": [
       "2026-05-28"
+    ],
+    "simplifaisoul/osiris": [
+      "2026-06-04"
     ],
     "stefan-jansen/machine-learning-for-trading": [
       "2026-06-02"
