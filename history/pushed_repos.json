@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T11:01:07",
+  "updated_at": "2026-06-05T11:07:35",
   "repos": {
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
@@ -34,6 +34,9 @@
     "Lum1104/Understand-Anything": [
       "2026-05-28"
     ],
+    "NVIDIA/cosmos": [
+      "2026-06-05"
+    ],
     "NousResearch/hermes-agent": [
       "2026-06-04"
     ],
@@ -46,6 +49,9 @@
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
     ],
+    "PaddlePaddle/PaddleOCR": [
+      "2026-06-05"
+    ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
     ],
@@ -53,7 +59,8 @@
       "2026-06-03"
     ],
     "affaan-m/ECC": [
-      "2026-05-28"
+      "2026-05-28",
+      "2026-06-05"
     ],
     "anthropics/claude-code": [
       "2026-05-31"
@@ -94,6 +101,12 @@
     "galilai-group/stable-worldmodel": [
       "2026-05-31"
     ],
+    "github/copilot-sdk": [
+      "2026-06-05"
+    ],
+    "github/spec-kit": [
+      "2026-06-05"
+    ],
     "godotengine/godot": [
       "2026-06-02"
     ],
@@ -109,6 +122,9 @@
     "jwasham/coding-interview-university": [
       "2026-06-04"
     ],
+    "lfnovo/open-notebook": [
+      "2026-06-05"
+    ],
     "lyogavin/airllm": [
       "2026-06-04"
     ],
@@ -121,6 +137,9 @@
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28"
     ],
+    "mvanhorn/last30days-skill": [
+      "2026-06-05"
+    ],
     "nesquena/hermes-webui": [
       "2026-06-02"
     ],
@@ -132,6 +151,9 @@
     ],
     "odoo/odoo": [
       "2026-06-04"
+    ],
+    "openclaw/openclaw-windows-node": [
+      "2026-06-05"
     ],
     "opendataloader-project/opendataloader-pdf": [
       "2026-06-04"
@@ -177,6 +199,12 @@
     ],
     "unclecode/crawl4ai": [
       "2026-05-29"
+    ],
+    "unicity-astrid/sdk-js": [
+      "2026-06-05"
+    ],
+    "vercel-labs/zero-native": [
+      "2026-06-05"
     ],
     "vercel-labs/zerolang": [
       "2026-06-03"
