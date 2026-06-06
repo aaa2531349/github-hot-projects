@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-06-05T11:07:35",
+  "updated_at": "2026-06-06T11:02:57",
   "repos": {
+    "666ghj/MiroFish": [
+      "2026-06-06"
+    ],
+    "AprilNEA/OpenLogi": [
+      "2026-06-06"
+    ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
+    ],
+    "CopilotKit/CopilotKit": [
+      "2026-06-06"
     ],
     "Crosstalk-Solutions/project-nomad": [
       "2026-05-31"
@@ -25,6 +34,9 @@
     "FareedKhan-dev/train-llm-from-scratch": [
       "2026-05-31"
     ],
+    "FoundZiGu/GuJumpgate": [
+      "2026-06-06"
+    ],
     "HKUDS/Vibe-Trading": [
       "2026-06-04"
     ],
@@ -33,6 +45,9 @@
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
+    ],
+    "MemPalace/mempalace": [
+      "2026-06-06"
     ],
     "NVIDIA/cosmos": [
       "2026-06-05"
@@ -51,6 +66,9 @@
     ],
     "PaddlePaddle/PaddleOCR": [
       "2026-06-05"
+    ],
+    "Panniantong/Agent-Reach": [
+      "2026-06-06"
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
@@ -152,6 +170,9 @@
     "odoo/odoo": [
       "2026-06-04"
     ],
+    "openai/plugins": [
+      "2026-06-06"
+    ],
     "openclaw/openclaw-windows-node": [
       "2026-06-05"
     ],
@@ -185,6 +206,9 @@
     "shiyu-coder/Kronos": [
       "2026-05-28"
     ],
+    "simonlin1212/a-stock-data": [
+      "2026-06-06"
+    ],
     "simplifaisoul/osiris": [
       "2026-06-04"
     ],
@@ -208,6 +232,12 @@
     ],
     "vercel-labs/zerolang": [
       "2026-06-03"
+    ],
+    "withastro/flue": [
+      "2026-06-06"
+    ],
+    "zgwl/chinese-buy-us-stock-guide": [
+      "2026-06-06"
     ]
   }
 }
