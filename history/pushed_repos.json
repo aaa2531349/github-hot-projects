@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T11:02:57",
+  "updated_at": "2026-06-17T14:53:46",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -59,7 +59,8 @@
       "2026-06-03"
     ],
     "OpenBMB/VoxCPM": [
-      "2026-05-31"
+      "2026-05-31",
+      "2026-06-17"
     ],
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
@@ -72,6 +73,9 @@
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
+    ],
+    "Universal-Debloater-Alliance/universal-android-debloater-next-generation": [
+      "2026-06-17"
     ],
     "V4bel/dirtyfrag": [
       "2026-06-03"
@@ -113,8 +117,14 @@
     "cursor/plugins": [
       "2026-05-31"
     ],
+    "cypress-io/cypress": [
+      "2026-06-17"
+    ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
+    ],
+    "freeCodeCamp/freeCodeCamp": [
+      "2026-06-17"
     ],
     "galilai-group/stable-worldmodel": [
       "2026-05-31"
@@ -134,6 +144,9 @@
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
     ],
+    "iptv-org/iptv": [
+      "2026-06-17"
+    ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
     ],
@@ -146,6 +159,9 @@
     "lyogavin/airllm": [
       "2026-06-04"
     ],
+    "meshery/meshery": [
+      "2026-06-17"
+    ],
     "microsoft/SkillOpt": [
       "2026-06-04"
     ],
@@ -154,6 +170,9 @@
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28"
+    ],
+    "music-assistant/server": [
+      "2026-06-17"
     ],
     "mvanhorn/last30days-skill": [
       "2026-06-05"
@@ -191,6 +210,9 @@
     "pewdiepie-archdaemon/odysseus": [
       "2026-06-02"
     ],
+    "puppeteer/puppeteer": [
+      "2026-06-17"
+    ],
     "reconurge/flowsint": [
       "2026-06-03"
     ],
@@ -217,6 +239,12 @@
     ],
     "supermemoryai/supermemory": [
       "2026-06-02"
+    ],
+    "swc-project/swc": [
+      "2026-06-17"
+    ],
+    "teslamate-org/teslamate": [
+      "2026-06-17"
     ],
     "twentyhq/twenty": [
       "2026-05-28"
