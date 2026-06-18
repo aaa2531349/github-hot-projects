@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T14:53:46",
+  "updated_at": "2026-06-18T11:00:31",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -21,6 +21,9 @@
     ],
     "DataTalksClub/data-engineering-zoomcamp": [
       "2026-05-31"
+    ],
+    "DeusData/codebase-memory-mcp": [
+      "2026-06-18"
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
@@ -69,7 +72,11 @@
       "2026-06-05"
     ],
     "Panniantong/Agent-Reach": [
-      "2026-06-06"
+      "2026-06-06",
+      "2026-06-18"
+    ],
+    "RocketChat/Rocket.Chat": [
+      "2026-06-18"
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
@@ -114,6 +121,9 @@
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
     ],
+    "continuedev/continue": [
+      "2026-06-18"
+    ],
     "cursor/plugins": [
       "2026-05-31"
     ],
@@ -138,6 +148,9 @@
     "godotengine/godot": [
       "2026-06-02"
     ],
+    "google-research/timesfm": [
+      "2026-06-18"
+    ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
     ],
@@ -153,11 +166,17 @@
     "jwasham/coding-interview-university": [
       "2026-06-04"
     ],
+    "krahets/hello-algo": [
+      "2026-06-18"
+    ],
     "lfnovo/open-notebook": [
       "2026-06-05"
     ],
     "lyogavin/airllm": [
       "2026-06-04"
+    ],
+    "mattpocock/skills": [
+      "2026-06-18"
     ],
     "meshery/meshery": [
       "2026-06-17"
@@ -177,6 +196,9 @@
     "mvanhorn/last30days-skill": [
       "2026-06-05"
     ],
+    "n0-computer/iroh": [
+      "2026-06-18"
+    ],
     "nesquena/hermes-webui": [
       "2026-06-02"
     ],
@@ -184,7 +206,8 @@
       "2026-06-03"
     ],
     "obra/superpowers": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-06-18"
     ],
     "odoo/odoo": [
       "2026-06-04"
@@ -203,6 +226,9 @@
     ],
     "pbakaus/impeccable": [
       "2026-06-02"
+    ],
+    "penpot/penpot": [
+      "2026-06-18"
     ],
     "perplexityai/bumblebee": [
       "2026-06-04"
