@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T11:00:31",
+  "updated_at": "2026-06-19T11:02:45",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -43,8 +43,17 @@
     "HKUDS/Vibe-Trading": [
       "2026-06-04"
     ],
+    "Kilo-Org/kilocode": [
+      "2026-06-19"
+    ],
+    "Kong/insomnia": [
+      "2026-06-19"
+    ],
     "Leonxlnx/taste-skill": [
       "2026-05-28"
+    ],
+    "Lightricks/LTX-2": [
+      "2026-06-19"
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
@@ -91,6 +100,9 @@
       "2026-05-28",
       "2026-06-05"
     ],
+    "alibaba/zvec": [
+      "2026-06-19"
+    ],
     "anthropics/claude-code": [
       "2026-05-31"
     ],
@@ -133,6 +145,9 @@
     "dmtrKovalenko/fff": [
       "2026-06-02"
     ],
+    "dotnet/aspnetcore": [
+      "2026-06-19"
+    ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
     ],
@@ -174,6 +189,9 @@
     ],
     "lyogavin/airllm": [
       "2026-06-04"
+    ],
+    "makeplane/plane": [
+      "2026-06-19"
     ],
     "mattpocock/skills": [
       "2026-06-18"
@@ -220,6 +238,9 @@
     ],
     "opendataloader-project/opendataloader-pdf": [
       "2026-06-04"
+    ],
+    "owainlewis/awesome-artificial-intelligence": [
+      "2026-06-19"
     ],
     "p-e-w/heretic": [
       "2026-05-28"
@@ -288,7 +309,14 @@
       "2026-06-03"
     ],
     "withastro/flue": [
-      "2026-06-06"
+      "2026-06-06",
+      "2026-06-19"
+    ],
+    "yifanfeng97/Hyper-Extract": [
+      "2026-06-19"
+    ],
+    "zai-org/GLM-5": [
+      "2026-06-19"
     ],
     "zgwl/chinese-buy-us-stock-guide": [
       "2026-06-06"
