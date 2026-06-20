@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T11:02:45",
+  "updated_at": "2026-06-20T11:01:32",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -9,6 +9,9 @@
     ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
+    ],
+    "BuilderIO/agent-native": [
+      "2026-06-20"
     ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
@@ -24,6 +27,9 @@
     ],
     "DeusData/codebase-memory-mcp": [
       "2026-06-18"
+    ],
+    "DietrichGebert/ponytail": [
+      "2026-06-20"
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
@@ -96,15 +102,24 @@
     "V4bel/dirtyfrag": [
       "2026-06-03"
     ],
+    "XiaomiMiMo/MiMo-Code": [
+      "2026-06-20"
+    ],
     "affaan-m/ECC": [
       "2026-05-28",
       "2026-06-05"
+    ],
+    "aishwaryanr/awesome-generative-ai-guide": [
+      "2026-06-20"
     ],
     "alibaba/zvec": [
       "2026-06-19"
     ],
     "anthropics/claude-code": [
       "2026-05-31"
+    ],
+    "anthropics/defending-code-reference-harness": [
+      "2026-06-20"
     ],
     "anthropics/knowledge-work-plugins": [
       "2026-05-28"
@@ -121,6 +136,9 @@
     "byoungd/English-level-up-tips": [
       "2026-05-29"
     ],
+    "calesthio/OpenMontage": [
+      "2026-06-20"
+    ],
     "can1357/oh-my-pi": [
       "2026-06-02"
     ],
@@ -128,7 +146,8 @@
       "2026-05-31"
     ],
     "chopratejas/headroom": [
-      "2026-06-03"
+      "2026-06-03",
+      "2026-06-20"
     ],
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
@@ -180,6 +199,9 @@
     ],
     "jwasham/coding-interview-university": [
       "2026-06-04"
+    ],
+    "koala73/worldmonitor": [
+      "2026-06-20"
     ],
     "krahets/hello-algo": [
       "2026-06-18"
@@ -245,6 +267,9 @@
     "p-e-w/heretic": [
       "2026-05-28"
     ],
+    "palmier-io/palmier-pro": [
+      "2026-06-20"
+    ],
     "pbakaus/impeccable": [
       "2026-06-02"
     ],
@@ -255,7 +280,8 @@
       "2026-06-04"
     ],
     "pewdiepie-archdaemon/odysseus": [
-      "2026-06-02"
+      "2026-06-02",
+      "2026-06-20"
     ],
     "puppeteer/puppeteer": [
       "2026-06-17"
