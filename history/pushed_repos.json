@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T11:01:32",
+  "updated_at": "2026-06-22T11:00:38",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -105,6 +105,9 @@
     "XiaomiMiMo/MiMo-Code": [
       "2026-06-20"
     ],
+    "ZhuLinsen/daily_stock_analysis": [
+      "2026-06-22"
+    ],
     "affaan-m/ECC": [
       "2026-05-28",
       "2026-06-05"
@@ -133,8 +136,15 @@
     "aquasecurity/trivy": [
       "2026-06-04"
     ],
+    "asgeirtj/system_prompts_leaks": [
+      "2026-06-22"
+    ],
     "byoungd/English-level-up-tips": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-06-22"
+    ],
+    "bytedance/deer-flow": [
+      "2026-06-22"
     ],
     "calesthio/OpenMontage": [
       "2026-06-20"
@@ -227,8 +237,12 @@
     "microsoft/markitdown": [
       "2026-05-29"
     ],
+    "mikumifa/biliTickerBuy": [
+      "2026-06-22"
+    ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
-      "2026-05-28"
+      "2026-05-28",
+      "2026-06-22"
     ],
     "music-assistant/server": [
       "2026-06-17"
@@ -298,6 +312,9 @@
     "ruvnet/RuView": [
       "2026-05-31"
     ],
+    "shadcn/improve": [
+      "2026-06-22"
+    ],
     "shiyu-coder/Kronos": [
       "2026-05-28"
     ],
@@ -306,6 +323,9 @@
     ],
     "simplifaisoul/osiris": [
       "2026-06-04"
+    ],
+    "smicallef/spiderfoot": [
+      "2026-06-22"
     ],
     "stefan-jansen/machine-learning-for-trading": [
       "2026-06-02"
@@ -318,6 +338,12 @@
     ],
     "teslamate-org/teslamate": [
       "2026-06-17"
+    ],
+    "topoteretes/cognee": [
+      "2026-06-22"
+    ],
+    "tursodatabase/turso": [
+      "2026-06-22"
     ],
     "twentyhq/twenty": [
       "2026-05-28"
