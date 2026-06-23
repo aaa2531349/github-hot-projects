@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T11:00:38",
+  "updated_at": "2026-06-23T11:02:14",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -49,6 +49,9 @@
     "HKUDS/Vibe-Trading": [
       "2026-06-04"
     ],
+    "JCodesMore/ai-website-cloner-template": [
+      "2026-06-23"
+    ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
     ],
@@ -92,6 +95,9 @@
     ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
+    ],
+    "Stirling-Tools/Stirling-PDF": [
+      "2026-06-23"
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
@@ -177,11 +183,17 @@
     "dotnet/aspnetcore": [
       "2026-06-19"
     ],
+    "firecrawl/firecrawl": [
+      "2026-06-23"
+    ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
     ],
     "galilai-group/stable-worldmodel": [
       "2026-05-31"
+    ],
+    "garrytan/gstack": [
+      "2026-06-23"
     ],
     "github/copilot-sdk": [
       "2026-06-05"
@@ -201,8 +213,17 @@
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
     ],
+    "helloianneo/ian-xiaohei-illustrations": [
+      "2026-06-23"
+    ],
+    "heygen-com/hyperframes": [
+      "2026-06-23"
+    ],
     "iptv-org/iptv": [
       "2026-06-17"
+    ],
+    "jamiepine/voicebox": [
+      "2026-06-23"
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
@@ -220,7 +241,8 @@
       "2026-06-05"
     ],
     "lyogavin/airllm": [
-      "2026-06-04"
+      "2026-06-04",
+      "2026-06-23"
     ],
     "makeplane/plane": [
       "2026-06-19"
@@ -265,6 +287,9 @@
     ],
     "odoo/odoo": [
       "2026-06-04"
+    ],
+    "omnigent-ai/omnigent": [
+      "2026-06-23"
     ],
     "openai/plugins": [
       "2026-06-06"
@@ -371,7 +396,8 @@
       "2026-06-19"
     ],
     "zgwl/chinese-buy-us-stock-guide": [
-      "2026-06-06"
+      "2026-06-06",
+      "2026-06-23"
     ]
   }
 }
