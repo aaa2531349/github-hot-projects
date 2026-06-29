@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T11:00:45",
+  "updated_at": "2026-06-29T11:01:46",
   "repos": {
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -12,6 +12,9 @@
     ],
     "BuilderIO/agent-native": [
       "2026-06-20"
+    ],
+    "ByteByteGoHq/system-design-101": [
+      "2026-06-29"
     ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
@@ -26,7 +29,8 @@
       "2026-05-31"
     ],
     "DeusData/codebase-memory-mcp": [
-      "2026-06-18"
+      "2026-06-18",
+      "2026-06-29"
     ],
     "DietrichGebert/ponytail": [
       "2026-06-20"
@@ -50,7 +54,8 @@
       "2026-06-26"
     ],
     "HKUDS/Vibe-Trading": [
-      "2026-06-04"
+      "2026-06-04",
+      "2026-06-29"
     ],
     "IceWhaleTech/CasaOS": [
       "2026-06-26"
@@ -100,6 +105,9 @@
       "2026-06-06",
       "2026-06-18"
     ],
+    "Robbyant/lingbot-map": [
+      "2026-06-29"
+    ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
     ],
@@ -137,6 +145,9 @@
     ],
     "alibaba/zvec": [
       "2026-06-19"
+    ],
+    "altic-dev/FluidVoice": [
+      "2026-06-29"
     ],
     "anthropics/claude-code": [
       "2026-05-31"
@@ -194,8 +205,14 @@
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
     ],
+    "commaai/openpilot": [
+      "2026-06-29"
+    ],
     "continuedev/continue": [
       "2026-06-18"
+    ],
+    "cupy/cupy": [
+      "2026-06-29"
     ],
     "cursor/plugins": [
       "2026-05-31"
@@ -373,6 +390,9 @@
       "2026-05-29",
       "2026-06-24"
     ],
+    "ripienaar/free-for-dev": [
+      "2026-06-29"
+    ],
     "run-llama/liteparse": [
       "2026-05-31"
     ],
@@ -390,6 +410,9 @@
     ],
     "simonlin1212/a-stock-data": [
       "2026-06-06"
+    ],
+    "simplex-chat/simplex-chat": [
+      "2026-06-29"
     ],
     "simplifaisoul/osiris": [
       "2026-06-04"
@@ -429,6 +452,9 @@
     ],
     "unicity-astrid/sdk-js": [
       "2026-06-05"
+    ],
+    "usestrix/strix": [
+      "2026-06-29"
     ],
     "vercel-labs/zero-native": [
       "2026-06-05"
