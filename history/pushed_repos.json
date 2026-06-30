@@ -1,6 +1,9 @@
 {
-  "updated_at": "2026-06-29T11:01:46",
+  "updated_at": "2026-06-30T11:02:09",
   "repos": {
+    "0xNyk/council-of-high-intelligence": [
+      "2026-06-30"
+    ],
     "666ghj/MiroFish": [
       "2026-06-06"
     ],
@@ -33,7 +36,8 @@
       "2026-06-29"
     ],
     "DietrichGebert/ponytail": [
-      "2026-06-20"
+      "2026-06-20",
+      "2026-06-30"
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
@@ -120,6 +124,9 @@
     "TauricResearch/TradingAgents": [
       "2026-06-02"
     ],
+    "Unclecheng-li/VulnClaw": [
+      "2026-06-30"
+    ],
     "Universal-Debloater-Alliance/universal-android-debloater-next-generation": [
       "2026-06-17"
     ],
@@ -127,7 +134,8 @@
       "2026-06-03"
     ],
     "XiaomiMiMo/MiMo-Code": [
-      "2026-06-20"
+      "2026-06-20",
+      "2026-06-30"
     ],
     "ZhuLinsen/daily_stock_analysis": [
       "2026-06-22"
@@ -181,6 +189,9 @@
     ],
     "baidu/Unlimited-OCR": [
       "2026-06-24"
+    ],
+    "browser-use/video-use": [
+      "2026-06-30"
     ],
     "byoungd/English-level-up-tips": [
       "2026-05-29",
@@ -289,6 +300,9 @@
     "lfnovo/open-notebook": [
       "2026-06-05"
     ],
+    "logto-io/logto": [
+      "2026-06-30"
+    ],
     "lyogavin/airllm": [
       "2026-06-04",
       "2026-06-23"
@@ -313,6 +327,9 @@
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
+    ],
+    "msitarzewski/agency-agents": [
+      "2026-06-30"
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28",
@@ -386,6 +403,9 @@
     "reconurge/flowsint": [
       "2026-06-03"
     ],
+    "refactoringhq/tolaria": [
+      "2026-06-30"
+    ],
     "revfactory/harness": [
       "2026-05-29",
       "2026-06-24"
@@ -419,6 +439,9 @@
     ],
     "smicallef/spiderfoot": [
       "2026-06-22"
+    ],
+    "soxoj/maigret": [
+      "2026-06-30"
     ],
     "stefan-jansen/machine-learning-for-trading": [
       "2026-06-02"
@@ -455,6 +478,9 @@
     ],
     "usestrix/strix": [
       "2026-06-29"
+    ],
+    "veracrypt/VeraCrypt": [
+      "2026-06-30"
     ],
     "vercel-labs/zero-native": [
       "2026-06-05"
