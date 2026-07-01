@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:02:09",
+  "updated_at": "2026-07-01T11:01:54",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -21,6 +21,9 @@
     ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
+    ],
+    "CoreBunch/Instatic": [
+      "2026-07-01"
     ],
     "Crosstalk-Solutions/project-nomad": [
       "2026-05-31"
@@ -81,6 +84,9 @@
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
+    ],
+    "Mebus/cupp": [
+      "2026-07-01"
     ],
     "MemPalace/mempalace": [
       "2026-06-06"
@@ -231,6 +237,9 @@
     "cypress-io/cypress": [
       "2026-06-17"
     ],
+    "diegosouzapw/OmniRoute": [
+      "2026-07-01"
+    ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
     ],
@@ -239,6 +248,9 @@
     ],
     "every-app/open-seo": [
       "2026-06-26"
+    ],
+    "facebook/astryx": [
+      "2026-07-01"
     ],
     "firecrawl/firecrawl": [
       "2026-06-23"
@@ -267,11 +279,17 @@
     "google-research/timesfm": [
       "2026-06-18"
     ],
+    "google/agents-cli": [
+      "2026-07-01"
+    ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
     ],
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
+    ],
+    "hasaneyldrm/exercises-dataset": [
+      "2026-07-01"
     ],
     "helloianneo/ian-xiaohei-illustrations": [
       "2026-06-23"
@@ -319,6 +337,9 @@
     "meshery/meshery": [
       "2026-06-17"
     ],
+    "microsoft/AI-For-Beginners": [
+      "2026-07-01"
+    ],
     "microsoft/SkillOpt": [
       "2026-06-04"
     ],
@@ -352,10 +373,14 @@
     ],
     "obra/superpowers": [
       "2026-05-29",
-      "2026-06-18"
+      "2026-06-18",
+      "2026-07-01"
     ],
     "odoo/odoo": [
       "2026-06-04"
+    ],
+    "ogulcancelik/herdr": [
+      "2026-07-01"
     ],
     "omnigent-ai/omnigent": [
       "2026-06-23"
@@ -412,6 +437,9 @@
     ],
     "ripienaar/free-for-dev": [
       "2026-06-29"
+    ],
+    "roboflow/supervision": [
+      "2026-07-01"
     ],
     "run-llama/liteparse": [
       "2026-05-31"
