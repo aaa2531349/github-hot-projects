@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T11:01:54",
+  "updated_at": "2026-07-02T11:02:03",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -130,6 +130,9 @@
     "TauricResearch/TradingAgents": [
       "2026-06-02"
     ],
+    "TencentCloud/CubeSandbox": [
+      "2026-07-02"
+    ],
     "Unclecheng-li/VulnClaw": [
       "2026-06-30"
     ],
@@ -159,6 +162,9 @@
     ],
     "alibaba/zvec": [
       "2026-06-19"
+    ],
+    "allenai/olmocr": [
+      "2026-07-02"
     ],
     "altic-dev/FluidVoice": [
       "2026-06-29"
@@ -194,7 +200,8 @@
       "2026-06-26"
     ],
     "baidu/Unlimited-OCR": [
-      "2026-06-24"
+      "2026-06-24",
+      "2026-07-02"
     ],
     "browser-use/video-use": [
       "2026-06-30"
@@ -236,6 +243,9 @@
     ],
     "cypress-io/cypress": [
       "2026-06-17"
+    ],
+    "deepseek-ai/DeepSpec": [
+      "2026-07-02"
     ],
     "diegosouzapw/OmniRoute": [
       "2026-07-01"
@@ -383,7 +393,8 @@
       "2026-07-01"
     ],
     "omnigent-ai/omnigent": [
-      "2026-06-23"
+      "2026-06-23",
+      "2026-07-02"
     ],
     "op7418/guizang-social-card-skill": [
       "2026-06-24"
@@ -448,7 +459,8 @@
       "2026-05-31"
     ],
     "shadcn/improve": [
-      "2026-06-22"
+      "2026-06-22",
+      "2026-07-02"
     ],
     "shanraisshan/claude-code-best-practice": [
       "2026-06-24"
@@ -483,6 +495,9 @@
     "teslamate-org/teslamate": [
       "2026-06-17"
     ],
+    "togatoga/karukan": [
+      "2026-07-02"
+    ],
     "topoteretes/cognee": [
       "2026-06-22"
     ],
@@ -496,10 +511,12 @@
       "2026-05-29"
     ],
     "unicity-astrid/book": [
-      "2026-06-24"
+      "2026-06-24",
+      "2026-07-02"
     ],
     "unicity-astrid/handbook": [
-      "2026-06-24"
+      "2026-06-24",
+      "2026-07-02"
     ],
     "unicity-astrid/sdk-js": [
       "2026-06-05"
@@ -525,6 +542,9 @@
     ],
     "yifanfeng97/Hyper-Extract": [
       "2026-06-19"
+    ],
+    "yikart/AiToEarn": [
+      "2026-07-02"
     ],
     "zai-org/GLM-5": [
       "2026-06-19"
