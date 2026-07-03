@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:02:03",
+  "updated_at": "2026-07-03T11:01:37",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -18,6 +18,9 @@
     ],
     "ByteByteGoHq/system-design-101": [
       "2026-06-29"
+    ],
+    "ChromeDevTools/chrome-devtools-mcp": [
+      "2026-07-03"
     ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
@@ -69,6 +72,9 @@
     ],
     "JCodesMore/ai-website-cloner-template": [
       "2026-06-23"
+    ],
+    "JuliusBrussee/caveman": [
+      "2026-07-03"
     ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
@@ -149,10 +155,17 @@
     "ZhuLinsen/daily_stock_analysis": [
       "2026-06-22"
     ],
+    "actions/checkout": [
+      "2026-07-03"
+    ],
     "affaan-m/ECC": [
       "2026-05-28",
       "2026-06-05",
-      "2026-06-24"
+      "2026-06-24",
+      "2026-07-03"
+    ],
+    "agentskills/agentskills": [
+      "2026-07-03"
     ],
     "aishwaryanr/awesome-generative-ai-guide": [
       "2026-06-20"
@@ -298,6 +311,9 @@
     "harry0703/MoneyPrinterTurbo": [
       "2026-05-28"
     ],
+    "harvard-edge/cs249r_book": [
+      "2026-07-03"
+    ],
     "hasaneyldrm/exercises-dataset": [
       "2026-07-01"
     ],
@@ -324,6 +340,9 @@
     ],
     "krahets/hello-algo": [
       "2026-06-18"
+    ],
+    "langflow-ai/langflow": [
+      "2026-07-03"
     ],
     "lfnovo/open-notebook": [
       "2026-06-05"
@@ -399,6 +418,9 @@
     "op7418/guizang-social-card-skill": [
       "2026-06-24"
     ],
+    "openai/codex-plugin-cc": [
+      "2026-07-03"
+    ],
     "openai/plugins": [
       "2026-06-06"
     ],
@@ -436,6 +458,9 @@
     "puppeteer/puppeteer": [
       "2026-06-17"
     ],
+    "pytorch/pytorch": [
+      "2026-07-03"
+    ],
     "reconurge/flowsint": [
       "2026-06-03"
     ],
@@ -457,6 +482,9 @@
     ],
     "ruvnet/RuView": [
       "2026-05-31"
+    ],
+    "santifer/career-ops": [
+      "2026-07-03"
     ],
     "shadcn/improve": [
       "2026-06-22",
