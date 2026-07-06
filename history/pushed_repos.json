@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T11:05:10",
+  "updated_at": "2026-07-06T11:13:14",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -86,7 +86,8 @@
       "2026-06-19"
     ],
     "Leonxlnx/taste-skill": [
-      "2026-05-28"
+      "2026-05-28",
+      "2026-07-06"
     ],
     "Lightricks/LTX-2": [
       "2026-06-19"
@@ -116,6 +117,9 @@
     ],
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
+    ],
+    "OthmanAdi/planning-with-files": [
+      "2026-07-06"
     ],
     "PaddlePaddle/PaddleOCR": [
       "2026-06-05"
@@ -193,7 +197,8 @@
       "2026-06-29"
     ],
     "anthropics/claude-code": [
-      "2026-05-31"
+      "2026-05-31",
+      "2026-07-06"
     ],
     "anthropics/claude-plugins-official": [
       "2026-06-24"
@@ -253,6 +258,9 @@
     "chthollyphile/folia-major": [
       "2026-07-05"
     ],
+    "cobusgreyling/loop-engineering": [
+      "2026-07-06"
+    ],
     "codecrafters-io/build-your-own-x": [
       "2026-05-29"
     ],
@@ -261,6 +269,9 @@
     ],
     "continuedev/continue": [
       "2026-06-18"
+    ],
+    "coreyhaines31/marketingskills": [
+      "2026-07-06"
     ],
     "cupy/cupy": [
       "2026-06-29"
@@ -304,6 +315,9 @@
     "garrytan/gstack": [
       "2026-06-23"
     ],
+    "gastownhall/gastown": [
+      "2026-07-06"
+    ],
     "github/copilot-sdk": [
       "2026-06-05"
     ],
@@ -337,6 +351,9 @@
     "helloianneo/ian-xiaohei-illustrations": [
       "2026-06-23"
     ],
+    "hesreallyhim/awesome-claude-code": [
+      "2026-07-06"
+    ],
     "heygen-com/hyperframes": [
       "2026-06-23"
     ],
@@ -360,6 +377,9 @@
     ],
     "krahets/hello-algo": [
       "2026-06-18"
+    ],
+    "langchain-ai/openwiki": [
+      "2026-07-06"
     ],
     "langflow-ai/langflow": [
       "2026-07-03"
@@ -505,7 +525,8 @@
       "2026-05-31"
     ],
     "ruvnet/RuView": [
-      "2026-05-31"
+      "2026-05-31",
+      "2026-07-06"
     ],
     "santifer/career-ops": [
       "2026-07-03"
@@ -537,6 +558,9 @@
     ],
     "stefan-jansen/machine-learning-for-trading": [
       "2026-06-02"
+    ],
+    "steipete/CodexBar": [
+      "2026-07-06"
     ],
     "supermemoryai/supermemory": [
       "2026-06-02"
