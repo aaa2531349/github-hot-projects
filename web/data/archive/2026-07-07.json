@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-07",
+  "source": "github-search-fallback, github-trending",
+  "repositories": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "70,967",
+      "trend": "1,112 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "Addy Osmani 整理的生产级工程 skills 集合，面向 AI coding agents 的真实软件开发场景。"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "49,845",
+      "trend": "458 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个 AI agent skill，可跨 Reddit、X、YouTube、HN、Polymarket 和网页研究任意主题，并生成有依据的摘要。"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": "4,340",
+      "trend": "427 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个让 Claude 理解视频的工具，/watch 会下载视频、抽帧、转写音频，并把结果交给 Claude 分析。"
+    },
+    {
+      "repo": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "language": "TypeScript",
+      "stars": "26,939",
+      "trend": "199 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个可自托管的全内容收藏应用，可保存链接、笔记和图片，并支持 AI 自动打标与全文搜索。"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": "146,400",
+      "trend": "867 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个面向大规模网页搜索、抓取和交互的 API，适合为 AI 应用和 agent 提供网页数据能力。"
+    },
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "13,563",
+      "trend": "382 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "阿里巴巴开源的轻量级进程内向量数据库，强调高性能和低接入成本，适合本地检索及 AI 应用。"
+    },
+    {
+      "repo": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "stars": "482,358",
+      "trend": "345 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "经典 Awesome 列表合集，汇总各种主题下的优质资源清单，是开发者找资料和工具的入口之一。"
+    },
+    {
+      "repo": "zhongerxin/Cowart",
+      "url": "https://github.com/zhongerxin/Cowart",
+      "description": "",
+      "language": "JavaScript",
+      "stars": "3,980",
+      "trend": "created after 2026-06-07",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个新近上榜但仓库简介为空的项目；当前只能确认其热度上升，具体用途需要进入仓库进一步核实。"
+    },
+    {
+      "repo": "makerspet/oomwoo",
+      "url": "https://github.com/makerspet/oomwoo",
+      "description": "Open-source vacuum robot cleaner",
+      "language": "Python",
+      "stars": "3,776",
+      "trend": "created after 2026-06-07",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个开源扫地机器人项目，面向自制或可定制的家用清洁机器人硬件与软件。"
+    },
+    {
+      "repo": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": "3,743",
+      "trend": "created after 2026-06-07",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个公开漏洞 PoC 和漏洞研究文章归档，面向安全研究与漏洞复现学习；使用时需要遵守合法授权和负责任披露原则。"
+    }
+  ]
+}

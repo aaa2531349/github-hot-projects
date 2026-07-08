@@ -1,11 +1,14 @@
 {
-  "updated_at": "2026-07-06T11:13:14",
+  "updated_at": "2026-07-08T11:02:25",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
     ],
     "666ghj/MiroFish": [
       "2026-06-06"
+    ],
+    "AhmadIbrahiim/Website-downloader": [
+      "2026-07-08"
     ],
     "AprilNEA/OpenLogi": [
       "2026-06-06"
@@ -15,6 +18,9 @@
     ],
     "BuilderIO/agent-native": [
       "2026-06-20"
+    ],
+    "BuilderIO/skills": [
+      "2026-07-08"
     ],
     "ByteByteGoHq/system-design-101": [
       "2026-06-29"
@@ -46,7 +52,8 @@
     ],
     "DietrichGebert/ponytail": [
       "2026-06-20",
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-08"
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
@@ -94,6 +101,9 @@
     ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
+    ],
+    "MadsLorentzen/ai-job-search": [
+      "2026-07-08"
     ],
     "Mebus/cupp": [
       "2026-07-01"
@@ -157,7 +167,11 @@
     ],
     "XiaomiMiMo/MiMo-Code": [
       "2026-06-20",
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-08"
+    ],
+    "Yu9191/wloc": [
+      "2026-07-08"
     ],
     "Zackriya-Solutions/meetily": [
       "2026-07-05"
@@ -167,6 +181,9 @@
     ],
     "actions/checkout": [
       "2026-07-03"
+    ],
+    "addyosmani/agent-skills": [
+      "2026-07-07"
     ],
     "affaan-m/ECC": [
       "2026-05-28",
@@ -185,7 +202,8 @@
       "2026-07-05"
     ],
     "alibaba/zvec": [
-      "2026-06-19"
+      "2026-06-19",
+      "2026-07-07"
     ],
     "alirezarezvani/claude-skills": [
       "2026-07-05"
@@ -231,6 +249,12 @@
     "baidu/Unlimited-OCR": [
       "2026-06-24",
       "2026-07-02"
+    ],
+    "bikini/exploitarium": [
+      "2026-07-07"
+    ],
+    "bradautomates/claude-video": [
+      "2026-07-07"
     ],
     "browser-use/video-use": [
       "2026-06-30"
@@ -297,6 +321,9 @@
     "dotnet/skills": [
       "2026-07-05"
     ],
+    "elder-plinius/T3MP3ST": [
+      "2026-07-08"
+    ],
     "every-app/open-seo": [
       "2026-06-26"
     ],
@@ -304,7 +331,8 @@
       "2026-07-01"
     ],
     "firecrawl/firecrawl": [
-      "2026-06-23"
+      "2026-06-23",
+      "2026-07-07"
     ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
@@ -357,6 +385,9 @@
     "heygen-com/hyperframes": [
       "2026-06-23"
     ],
+    "iOfficeAI/OfficeCLI": [
+      "2026-07-08"
+    ],
     "immich-app/immich": [
       "2026-07-05"
     ],
@@ -372,11 +403,17 @@
     "jwasham/coding-interview-university": [
       "2026-06-04"
     ],
+    "karakeep-app/karakeep": [
+      "2026-07-07"
+    ],
     "koala73/worldmonitor": [
       "2026-06-20"
     ],
     "krahets/hello-algo": [
       "2026-06-18"
+    ],
+    "kyutai-labs/pocket-tts": [
+      "2026-07-08"
     ],
     "langchain-ai/openwiki": [
       "2026-07-06"
@@ -396,6 +433,9 @@
     ],
     "makeplane/plane": [
       "2026-06-19"
+    ],
+    "makerspet/oomwoo": [
+      "2026-07-07"
     ],
     "mattpocock/skills": [
       "2026-06-18",
@@ -430,7 +470,8 @@
       "2026-06-17"
     ],
     "mvanhorn/last30days-skill": [
-      "2026-06-05"
+      "2026-06-05",
+      "2026-07-07"
     ],
     "n0-computer/iroh": [
       "2026-06-18"
@@ -550,6 +591,9 @@
     "simplifaisoul/osiris": [
       "2026-06-04"
     ],
+    "sindresorhus/awesome": [
+      "2026-07-07"
+    ],
     "smicallef/spiderfoot": [
       "2026-06-22"
     ],
@@ -609,6 +653,9 @@
     "vercel-labs/zerolang": [
       "2026-06-03"
     ],
+    "vercel/eve": [
+      "2026-07-08"
+    ],
     "withastro/flue": [
       "2026-06-06",
       "2026-06-19"
@@ -628,6 +675,9 @@
     "zgwl/chinese-buy-us-stock-guide": [
       "2026-06-06",
       "2026-06-23"
+    ],
+    "zhongerxin/Cowart": [
+      "2026-07-07"
     ]
   }
 }
