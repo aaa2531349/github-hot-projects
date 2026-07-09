@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:02:25",
+  "updated_at": "2026-07-09T11:01:37",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -57,6 +57,9 @@
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
+    ],
+    "Diolinux/PhotoGIMP": [
+      "2026-07-09"
     ],
     "EveryInc/compound-engineering-plugin": [
       "2026-05-29"
@@ -156,6 +159,9 @@
     "TencentCloud/CubeSandbox": [
       "2026-07-02"
     ],
+    "TencentCloud/TencentDB-Agent-Memory": [
+      "2026-07-09"
+    ],
     "Unclecheng-li/VulnClaw": [
       "2026-06-30"
     ],
@@ -183,7 +189,8 @@
       "2026-07-03"
     ],
     "addyosmani/agent-skills": [
-      "2026-07-07"
+      "2026-07-07",
+      "2026-07-09"
     ],
     "affaan-m/ECC": [
       "2026-05-28",
@@ -239,12 +246,18 @@
     "aquasecurity/trivy": [
       "2026-06-04"
     ],
+    "argoproj/argo-cd": [
+      "2026-07-09"
+    ],
     "asgeirtj/system_prompts_leaks": [
       "2026-06-22",
       "2026-07-05"
     ],
     "aws/agent-toolkit-for-aws": [
       "2026-06-26"
+    ],
+    "baairon/torlink": [
+      "2026-07-09"
     ],
     "baidu/Unlimited-OCR": [
       "2026-06-24",
@@ -385,6 +398,9 @@
     "heygen-com/hyperframes": [
       "2026-06-23"
     ],
+    "huxingyi/autoremesher": [
+      "2026-07-09"
+    ],
     "iOfficeAI/OfficeCLI": [
       "2026-07-08"
     ],
@@ -433,6 +449,9 @@
     ],
     "makeplane/plane": [
       "2026-06-19"
+    ],
+    "makers-pet/oomwoo": [
+      "2026-07-09"
     ],
     "makerspet/oomwoo": [
       "2026-07-07"
@@ -485,7 +504,8 @@
     "obra/superpowers": [
       "2026-05-29",
       "2026-06-18",
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-09"
     ],
     "odoo/odoo": [
       "2026-06-04"
@@ -536,6 +556,9 @@
     "pewdiepie-archdaemon/odysseus": [
       "2026-06-02",
       "2026-06-20"
+    ],
+    "prisma/prisma": [
+      "2026-07-09"
     ],
     "puppeteer/puppeteer": [
       "2026-06-17"
@@ -659,6 +682,9 @@
     "withastro/flue": [
       "2026-06-06",
       "2026-06-19"
+    ],
+    "wonderwhy-er/DesktopCommanderMCP": [
+      "2026-07-09"
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
