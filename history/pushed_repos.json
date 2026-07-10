@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T11:01:37",
+  "updated_at": "2026-07-10T11:01:32",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -147,6 +147,9 @@
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
     ],
+    "SmartlyDressedGames/U3-SDK": [
+      "2026-07-10"
+    ],
     "StarTrail-org/PixelRAG": [
       "2026-06-24"
     ],
@@ -170,6 +173,9 @@
     ],
     "V4bel/dirtyfrag": [
       "2026-06-03"
+    ],
+    "VoltAgent/awesome-design-md": [
+      "2026-07-10"
     ],
     "XiaomiMiMo/MiMo-Code": [
       "2026-06-20",
@@ -225,6 +231,9 @@
       "2026-05-31",
       "2026-07-06"
     ],
+    "anthropics/claude-cookbooks": [
+      "2026-07-10"
+    ],
     "anthropics/claude-plugins-official": [
       "2026-06-24"
     ],
@@ -261,7 +270,8 @@
     ],
     "baidu/Unlimited-OCR": [
       "2026-06-24",
-      "2026-07-02"
+      "2026-07-02",
+      "2026-07-10"
     ],
     "bikini/exploitarium": [
       "2026-07-07"
@@ -320,7 +330,8 @@
       "2026-06-17"
     ],
     "deepseek-ai/DeepSpec": [
-      "2026-07-02"
+      "2026-07-02",
+      "2026-07-10"
     ],
     "diegosouzapw/OmniRoute": [
       "2026-07-01"
@@ -406,6 +417,9 @@
     ],
     "immich-app/immich": [
       "2026-07-05"
+    ],
+    "imthenachoman/How-To-Secure-A-Linux-Server": [
+      "2026-07-10"
     ],
     "iptv-org/iptv": [
       "2026-06-17"
@@ -515,7 +529,8 @@
     ],
     "omnigent-ai/omnigent": [
       "2026-06-23",
-      "2026-07-02"
+      "2026-07-02",
+      "2026-07-10"
     ],
     "op7418/guizang-social-card-skill": [
       "2026-06-24"
@@ -651,7 +666,8 @@
       "2026-05-28"
     ],
     "unclecode/crawl4ai": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-07-10"
     ],
     "unicity-astrid/book": [
       "2026-06-24",
@@ -679,12 +695,18 @@
     "vercel/eve": [
       "2026-07-08"
     ],
+    "vxcontrol/pentagi": [
+      "2026-07-10"
+    ],
     "withastro/flue": [
       "2026-06-06",
       "2026-06-19"
     ],
     "wonderwhy-er/DesktopCommanderMCP": [
       "2026-07-09"
+    ],
+    "x4gKing/X4G": [
+      "2026-07-10"
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
