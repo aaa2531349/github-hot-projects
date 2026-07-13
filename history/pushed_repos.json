@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T11:01:32",
+  "updated_at": "2026-07-13T11:01:35",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -28,6 +28,9 @@
     "ChromeDevTools/chrome-devtools-mcp": [
       "2026-07-03"
     ],
+    "ColeMurray/background-agents": [
+      "2026-07-13"
+    ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
     ],
@@ -38,7 +41,8 @@
       "2026-07-01"
     ],
     "Crosstalk-Solutions/project-nomad": [
-      "2026-05-31"
+      "2026-05-31",
+      "2026-07-13"
     ],
     "D4Vinci/Scrapling": [
       "2026-06-02"
@@ -49,6 +53,9 @@
     "DeusData/codebase-memory-mcp": [
       "2026-06-18",
       "2026-06-29"
+    ],
+    "Dicklesworthstone/destructive_command_guard": [
+      "2026-07-13"
     ],
     "DietrichGebert/ponytail": [
       "2026-06-20",
@@ -78,7 +85,8 @@
     ],
     "HKUDS/Vibe-Trading": [
       "2026-06-04",
-      "2026-06-29"
+      "2026-06-29",
+      "2026-07-13"
     ],
     "IceWhaleTech/CasaOS": [
       "2026-06-26"
@@ -141,11 +149,17 @@
       "2026-06-06",
       "2026-06-18"
     ],
+    "PrefectHQ/prefect": [
+      "2026-07-13"
+    ],
     "Robbyant/lingbot-map": [
       "2026-06-29"
     ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
+    ],
+    "Shubhamsaboo/awesome-llm-apps": [
+      "2026-07-13"
     ],
     "SmartlyDressedGames/U3-SDK": [
       "2026-07-10"
@@ -409,6 +423,9 @@
     "heygen-com/hyperframes": [
       "2026-06-23"
     ],
+    "home-assistant/core": [
+      "2026-07-13"
+    ],
     "huxingyi/autoremesher": [
       "2026-07-09"
     ],
@@ -432,6 +449,9 @@
     ],
     "jwasham/coding-interview-university": [
       "2026-06-04"
+    ],
+    "k1tbyte/Wand-Enhancer": [
+      "2026-07-13"
     ],
     "karakeep-app/karakeep": [
       "2026-07-07"
@@ -572,6 +592,9 @@
       "2026-06-02",
       "2026-06-20"
     ],
+    "pingdotgg/t3code": [
+      "2026-07-13"
+    ],
     "prisma/prisma": [
       "2026-07-09"
     ],
@@ -694,6 +717,9 @@
     ],
     "vercel/eve": [
       "2026-07-08"
+    ],
+    "virattt/ai-hedge-fund": [
+      "2026-07-13"
     ],
     "vxcontrol/pentagi": [
       "2026-07-10"
