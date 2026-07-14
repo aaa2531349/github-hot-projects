@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:01:35",
+  "updated_at": "2026-07-14T11:01:47",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -83,6 +83,9 @@
     "Free-TV/IPTV": [
       "2026-06-26"
     ],
+    "Graphify-Labs/graphify": [
+      "2026-07-14"
+    ],
     "HKUDS/Vibe-Trading": [
       "2026-06-04",
       "2026-06-29",
@@ -96,6 +99,9 @@
     ],
     "JuliusBrussee/caveman": [
       "2026-07-03"
+    ],
+    "JustVugg/colibri": [
+      "2026-07-14"
     ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
@@ -129,12 +135,18 @@
       "2026-06-04",
       "2026-06-24"
     ],
+    "Nutlope/hallmark": [
+      "2026-07-14"
+    ],
     "Open-LLM-VTuber/Open-LLM-VTuber": [
       "2026-06-03"
     ],
     "OpenBMB/VoxCPM": [
       "2026-05-31",
       "2026-06-17"
+    ],
+    "OpenCut-app/OpenCut": [
+      "2026-07-14"
     ],
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
@@ -151,6 +163,9 @@
     ],
     "PrefectHQ/prefect": [
       "2026-07-13"
+    ],
+    "Raphire/Win11Debloat": [
+      "2026-07-14"
     ],
     "Robbyant/lingbot-map": [
       "2026-06-29"
@@ -332,7 +347,8 @@
       "2026-06-18"
     ],
     "coreyhaines31/marketingskills": [
-      "2026-07-06"
+      "2026-07-06",
+      "2026-07-14"
     ],
     "cupy/cupy": [
       "2026-06-29"
@@ -388,7 +404,8 @@
       "2026-06-05"
     ],
     "github/spec-kit": [
-      "2026-06-05"
+      "2026-06-05",
+      "2026-07-14"
     ],
     "godotengine/godot": [
       "2026-06-02"
@@ -412,7 +429,8 @@
       "2026-07-03"
     ],
     "hasaneyldrm/exercises-dataset": [
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-14"
     ],
     "helloianneo/ian-xiaohei-illustrations": [
       "2026-06-23"
@@ -466,7 +484,8 @@
       "2026-07-08"
     ],
     "langchain-ai/openwiki": [
-      "2026-07-06"
+      "2026-07-06",
+      "2026-07-14"
     ],
     "langflow-ai/langflow": [
       "2026-07-03"
@@ -511,6 +530,9 @@
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
+    ],
+    "moeru-ai/airi": [
+      "2026-07-14"
     ],
     "msitarzewski/agency-agents": [
       "2026-06-30"
