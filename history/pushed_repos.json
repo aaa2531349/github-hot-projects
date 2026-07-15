@@ -1,11 +1,14 @@
 {
-  "updated_at": "2026-07-14T11:01:47",
+  "updated_at": "2026-07-15T11:02:07",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
     ],
     "666ghj/MiroFish": [
       "2026-06-06"
+    ],
+    "AIEraDev/Clypra": [
+      "2026-07-15"
     ],
     "AhmadIbrahiim/Website-downloader": [
       "2026-07-08"
@@ -90,6 +93,9 @@
       "2026-06-04",
       "2026-06-29",
       "2026-07-13"
+    ],
+    "HenryNdubuaku/maths-cs-ai-compendium": [
+      "2026-07-15"
     ],
     "IceWhaleTech/CasaOS": [
       "2026-06-26"
@@ -303,7 +309,11 @@
       "2026-07-10"
     ],
     "bikini/exploitarium": [
-      "2026-07-07"
+      "2026-07-07",
+      "2026-07-15"
+    ],
+    "bozhouDev/codex-orange-book": [
+      "2026-07-15"
     ],
     "bradautomates/claude-video": [
       "2026-07-07"
@@ -326,6 +336,9 @@
     ],
     "chen08209/FlClash": [
       "2026-05-31"
+    ],
+    "chenyme/grok2api": [
+      "2026-07-15"
     ],
     "chopratejas/headroom": [
       "2026-06-03",
@@ -511,7 +524,8 @@
     ],
     "mattpocock/skills": [
       "2026-06-18",
-      "2026-07-05"
+      "2026-07-05",
+      "2026-07-15"
     ],
     "mauriceboe/TREK": [
       "2026-06-26"
@@ -601,11 +615,15 @@
     "palmier-io/palmier-pro": [
       "2026-06-20"
     ],
+    "par274/sharpemu": [
+      "2026-07-15"
+    ],
     "pbakaus/impeccable": [
       "2026-06-02"
     ],
     "penpot/penpot": [
-      "2026-06-18"
+      "2026-06-18",
+      "2026-07-15"
     ],
     "perplexityai/bumblebee": [
       "2026-06-04"
@@ -750,6 +768,9 @@
       "2026-06-06",
       "2026-06-19"
     ],
+    "withmarbleapp/os-taxonomy": [
+      "2026-07-15"
+    ],
     "wonderwhy-er/DesktopCommanderMCP": [
       "2026-07-09"
     ],
@@ -773,7 +794,8 @@
       "2026-06-23"
     ],
     "zhongerxin/Cowart": [
-      "2026-07-07"
+      "2026-07-07",
+      "2026-07-15"
     ]
   }
 }
