@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T11:02:07",
+  "updated_at": "2026-07-16T11:01:56",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -88,6 +88,9 @@
     ],
     "Graphify-Labs/graphify": [
       "2026-07-14"
+    ],
+    "HKUDS/DeepTutor": [
+      "2026-07-16"
     ],
     "HKUDS/Vibe-Trading": [
       "2026-06-04",
@@ -217,8 +220,12 @@
       "2026-06-30",
       "2026-07-08"
     ],
+    "YimMenu/YimMenuV2": [
+      "2026-07-16"
+    ],
     "Yu9191/wloc": [
-      "2026-07-08"
+      "2026-07-08",
+      "2026-07-16"
     ],
     "Zackriya-Solutions/meetily": [
       "2026-07-05"
@@ -347,6 +354,9 @@
     "chthollyphile/folia-major": [
       "2026-07-05"
     ],
+    "cloudflare/security-audit-skill": [
+      "2026-07-16"
+    ],
     "cobusgreyling/loop-engineering": [
       "2026-07-06"
     ],
@@ -372,6 +382,9 @@
     "cypress-io/cypress": [
       "2026-06-17"
     ],
+    "davidondrej/skills": [
+      "2026-07-16"
+    ],
     "deepseek-ai/DeepSpec": [
       "2026-07-02",
       "2026-07-10"
@@ -389,7 +402,8 @@
       "2026-07-05"
     ],
     "elder-plinius/T3MP3ST": [
-      "2026-07-08"
+      "2026-07-08",
+      "2026-07-16"
     ],
     "every-app/open-seo": [
       "2026-06-26"
@@ -588,6 +602,9 @@
       "2026-07-02",
       "2026-07-10"
     ],
+    "oomol-lab/open-connector": [
+      "2026-07-16"
+    ],
     "op7418/guizang-social-card-skill": [
       "2026-06-24"
     ],
@@ -605,6 +622,12 @@
     ],
     "opendataloader-project/opendataloader-pdf": [
       "2026-06-04"
+    ],
+    "openinterpreter/openinterpreter": [
+      "2026-07-16"
+    ],
+    "oso95/scroll-world": [
+      "2026-07-16"
     ],
     "owainlewis/awesome-artificial-intelligence": [
       "2026-06-19"
@@ -776,6 +799,9 @@
     ],
     "x4gKing/X4G": [
       "2026-07-10"
+    ],
+    "xai-org/grok-build": [
+      "2026-07-16"
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
