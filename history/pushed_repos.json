@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:01:56",
+  "updated_at": "2026-07-17T11:01:41",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -79,6 +79,9 @@
     ],
     "FareedKhan-dev/train-llm-from-scratch": [
       "2026-05-31"
+    ],
+    "Fei-Away/Codex-Dream-Skin": [
+      "2026-07-17"
     ],
     "FoundZiGu/GuJumpgate": [
       "2026-06-06"
@@ -170,8 +173,14 @@
       "2026-06-06",
       "2026-06-18"
     ],
+    "PostHog/posthog": [
+      "2026-07-17"
+    ],
     "PrefectHQ/prefect": [
       "2026-07-13"
+    ],
+    "PrismML-Eng/Bonsai-demo": [
+      "2026-07-17"
     ],
     "Raphire/Win11Debloat": [
       "2026-07-14"
@@ -291,6 +300,9 @@
     "antirez/ds4": [
       "2026-06-03"
     ],
+    "apache/ossie": [
+      "2026-07-17"
+    ],
     "apple/container": [
       "2026-06-26"
     ],
@@ -308,7 +320,8 @@
       "2026-06-26"
     ],
     "baairon/torlink": [
-      "2026-07-09"
+      "2026-07-09",
+      "2026-07-17"
     ],
     "baidu/Unlimited-OCR": [
       "2026-06-24",
@@ -361,7 +374,8 @@
       "2026-07-06"
     ],
     "codecrafters-io/build-your-own-x": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-07-17"
     ],
     "commaai/openpilot": [
       "2026-06-29"
@@ -428,7 +442,8 @@
       "2026-07-06"
     ],
     "github/copilot-sdk": [
-      "2026-06-05"
+      "2026-06-05",
+      "2026-07-17"
     ],
     "github/spec-kit": [
       "2026-06-05",
@@ -477,6 +492,9 @@
     "iOfficeAI/OfficeCLI": [
       "2026-07-08"
     ],
+    "ibelick/ui-skills": [
+      "2026-07-17"
+    ],
     "immich-app/immich": [
       "2026-07-05"
     ],
@@ -519,6 +537,9 @@
     ],
     "lfnovo/open-notebook": [
       "2026-06-05"
+    ],
+    "lobehub/lobehub": [
+      "2026-07-17"
     ],
     "logto-io/logto": [
       "2026-06-30"
@@ -628,6 +649,9 @@
     ],
     "oso95/scroll-world": [
       "2026-07-16"
+    ],
+    "ossu/computer-science": [
+      "2026-07-17"
     ],
     "owainlewis/awesome-artificial-intelligence": [
       "2026-06-19"
