@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T11:01:41",
+  "updated_at": "2026-07-18T11:02:43",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -174,7 +174,8 @@
       "2026-06-18"
     ],
     "PostHog/posthog": [
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-18"
     ],
     "PrefectHQ/prefect": [
       "2026-07-13"
@@ -190,6 +191,9 @@
     ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
+    ],
+    "RyanCodrai/turbovec": [
+      "2026-07-18"
     ],
     "Shubhamsaboo/awesome-llm-apps": [
       "2026-07-13"
@@ -288,6 +292,9 @@
     "anthropics/claude-plugins-official": [
       "2026-06-24"
     ],
+    "anthropics/cwc-workshops": [
+      "2026-07-18"
+    ],
     "anthropics/defending-code-reference-harness": [
       "2026-06-20"
     ],
@@ -375,7 +382,8 @@
     ],
     "codecrafters-io/build-your-own-x": [
       "2026-05-29",
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-18"
     ],
     "commaai/openpilot": [
       "2026-06-29"
@@ -401,13 +409,17 @@
     ],
     "deepseek-ai/DeepSpec": [
       "2026-07-02",
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-18"
     ],
     "diegosouzapw/OmniRoute": [
       "2026-07-01"
     ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
+    ],
+    "docusealco/docuseal": [
+      "2026-07-18"
     ],
     "dotnet/aspnetcore": [
       "2026-06-19"
@@ -685,6 +697,9 @@
     "prisma/prisma": [
       "2026-07-09"
     ],
+    "protocolbuffers/protobuf": [
+      "2026-07-18"
+    ],
     "puppeteer/puppeteer": [
       "2026-06-17"
     ],
@@ -760,8 +775,14 @@
     "swc-project/swc": [
       "2026-06-17"
     ],
+    "synthetic-sciences/openscience": [
+      "2026-07-18"
+    ],
     "teslamate-org/teslamate": [
       "2026-06-17"
+    ],
+    "tirth8205/code-review-graph": [
+      "2026-07-18"
     ],
     "togatoga/karukan": [
       "2026-07-02"
@@ -822,7 +843,8 @@
       "2026-07-09"
     ],
     "x4gKing/X4G": [
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-18"
     ],
     "xai-org/grok-build": [
       "2026-07-16"
