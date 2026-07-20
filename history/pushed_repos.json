@@ -1,8 +1,11 @@
 {
-  "updated_at": "2026-07-18T11:02:43",
+  "updated_at": "2026-07-20T11:02:26",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
+    ],
+    "1jehuang/jcode": [
+      "2026-07-20"
     ],
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -15,6 +18,9 @@
     ],
     "AprilNEA/OpenLogi": [
       "2026-06-06"
+    ],
+    "AstrBotDevs/AstrBot": [
+      "2026-07-20"
     ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
@@ -117,6 +123,9 @@
     ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
+    ],
+    "KnockOutEZ/wigolo": [
+      "2026-07-20"
     ],
     "Kong/insomnia": [
       "2026-06-19"
@@ -282,6 +291,9 @@
     "altic-dev/FluidVoice": [
       "2026-06-29"
     ],
+    "andrewrabert/jellium-desktop": [
+      "2026-07-20"
+    ],
     "anthropics/claude-code": [
       "2026-05-31",
       "2026-07-06"
@@ -338,6 +350,9 @@
     "bikini/exploitarium": [
       "2026-07-07",
       "2026-07-15"
+    ],
+    "bojieli/ai-agent-book": [
+      "2026-07-20"
     ],
     "bozhouDev/codex-orange-book": [
       "2026-07-15"
@@ -517,7 +532,8 @@
       "2026-06-17"
     ],
     "jamiepine/voicebox": [
-      "2026-06-23"
+      "2026-06-23",
+      "2026-07-20"
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
@@ -536,6 +552,9 @@
     ],
     "krahets/hello-algo": [
       "2026-06-18"
+    ],
+    "kvcache-ai/ktransformers": [
+      "2026-07-20"
     ],
     "kyutai-labs/pocket-tts": [
       "2026-07-08"
@@ -588,6 +607,9 @@
     ],
     "microsoft/markitdown": [
       "2026-05-29"
+    ],
+    "microsoft/terminal": [
+      "2026-07-20"
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
@@ -722,6 +744,9 @@
     "roboflow/supervision": [
       "2026-07-01"
     ],
+    "rohitg00/ai-engineering-from-scratch": [
+      "2026-07-20"
+    ],
     "rommapp/romm": [
       "2026-07-05"
     ],
@@ -789,6 +814,9 @@
     ],
     "topoteretes/cognee": [
       "2026-06-22"
+    ],
+    "trycua/cua": [
+      "2026-07-20"
     ],
     "tursodatabase/turso": [
       "2026-06-22"
