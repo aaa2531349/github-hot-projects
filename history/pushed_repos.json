@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T11:02:26",
+  "updated_at": "2026-07-21T11:02:14",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -149,6 +149,9 @@
     "MemPalace/mempalace": [
       "2026-06-06"
     ],
+    "MoonshotAI/kimi-cli": [
+      "2026-07-21"
+    ],
     "NVIDIA/cosmos": [
       "2026-06-05"
     ],
@@ -186,6 +189,9 @@
       "2026-07-17",
       "2026-07-18"
     ],
+    "PrefectHQ/fastmcp": [
+      "2026-07-21"
+    ],
     "PrefectHQ/prefect": [
       "2026-07-13"
     ],
@@ -196,7 +202,8 @@
       "2026-07-14"
     ],
     "Robbyant/lingbot-map": [
-      "2026-06-29"
+      "2026-06-29",
+      "2026-07-21"
     ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
@@ -428,7 +435,8 @@
       "2026-07-18"
     ],
     "diegosouzapw/OmniRoute": [
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-21"
     ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
@@ -447,7 +455,8 @@
       "2026-07-16"
     ],
     "every-app/open-seo": [
-      "2026-06-26"
+      "2026-06-26",
+      "2026-07-21"
     ],
     "facebook/astryx": [
       "2026-07-01"
@@ -529,7 +538,8 @@
       "2026-07-10"
     ],
     "iptv-org/iptv": [
-      "2026-06-17"
+      "2026-06-17",
+      "2026-07-21"
     ],
     "jamiepine/voicebox": [
       "2026-06-23",
@@ -618,7 +628,8 @@
       "2026-07-14"
     ],
     "msitarzewski/agency-agents": [
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-21"
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28",
@@ -639,6 +650,9 @@
     ],
     "nexu-io/html-anything": [
       "2026-06-03"
+    ],
+    "oblien/openship": [
+      "2026-07-21"
     ],
     "obra/superpowers": [
       "2026-05-29",
@@ -812,8 +826,12 @@
     "togatoga/karukan": [
       "2026-07-02"
     ],
+    "tokio-rs/topcoat": [
+      "2026-07-21"
+    ],
     "topoteretes/cognee": [
-      "2026-06-22"
+      "2026-06-22",
+      "2026-07-21"
     ],
     "trycua/cua": [
       "2026-07-20"
