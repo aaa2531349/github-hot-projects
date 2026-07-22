@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T11:02:14",
+  "updated_at": "2026-07-22T11:01:37",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -15,6 +15,9 @@
     ],
     "AhmadIbrahiim/Website-downloader": [
       "2026-07-08"
+    ],
+    "AlexsJones/llmfit": [
+      "2026-07-22"
     ],
     "AprilNEA/OpenLogi": [
       "2026-06-06"
@@ -76,6 +79,9 @@
     ],
     "Diolinux/PhotoGIMP": [
       "2026-07-09"
+    ],
+    "DioxusLabs/dioxus": [
+      "2026-07-22"
     ],
     "EveryInc/compound-engineering-plugin": [
       "2026-05-29"
@@ -345,6 +351,9 @@
     "aws/agent-toolkit-for-aws": [
       "2026-06-26"
     ],
+    "ayghri/i-have-adhd": [
+      "2026-07-22"
+    ],
     "baairon/torlink": [
       "2026-07-09",
       "2026-07-17"
@@ -392,6 +401,9 @@
     "chopratejas/headroom": [
       "2026-06-03",
       "2026-06-20"
+    ],
+    "chrislgarry/Apollo-11": [
+      "2026-07-22"
     ],
     "chthollyphile/folia-major": [
       "2026-07-05"
@@ -449,6 +461,9 @@
     ],
     "dotnet/skills": [
       "2026-07-05"
+    ],
+    "earthtojake/text-to-cad": [
+      "2026-07-22"
     ],
     "elder-plinius/T3MP3ST": [
       "2026-07-08",
@@ -525,6 +540,9 @@
     "huxingyi/autoremesher": [
       "2026-07-09"
     ],
+    "hyprwm/Hyprland": [
+      "2026-07-22"
+    ],
     "iOfficeAI/OfficeCLI": [
       "2026-07-08"
     ],
@@ -558,7 +576,8 @@
       "2026-07-07"
     ],
     "koala73/worldmonitor": [
-      "2026-06-20"
+      "2026-06-20",
+      "2026-07-22"
     ],
     "krahets/hello-algo": [
       "2026-06-18"
@@ -568,6 +587,9 @@
     ],
     "kyutai-labs/pocket-tts": [
       "2026-07-08"
+    ],
+    "langchain-ai/open_deep_research": [
+      "2026-07-22"
     ],
     "langchain-ai/openwiki": [
       "2026-07-06",
@@ -774,6 +796,9 @@
     "santifer/career-ops": [
       "2026-07-03"
     ],
+    "schollz/croc": [
+      "2026-07-22"
+    ],
     "shadcn/improve": [
       "2026-06-22",
       "2026-07-02"
@@ -832,6 +857,9 @@
     "topoteretes/cognee": [
       "2026-06-22",
       "2026-07-21"
+    ],
+    "tradesdontlie/tradingview-mcp": [
+      "2026-07-22"
     ],
     "trycua/cua": [
       "2026-07-20"
