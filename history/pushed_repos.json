@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:02:00",
+  "updated_at": "2026-07-24T11:01:44",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -24,6 +24,9 @@
     ],
     "AstrBotDevs/AstrBot": [
       "2026-07-20"
+    ],
+    "Automattic/harper": [
+      "2026-07-24"
     ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
@@ -297,6 +300,9 @@
     "aishwaryanr/awesome-generative-ai-guide": [
       "2026-06-20"
     ],
+    "alibaba/open-code-review": [
+      "2026-07-24"
+    ],
     "alibaba/page-agent": [
       "2026-06-26",
       "2026-07-05"
@@ -377,6 +383,9 @@
       "2026-07-07",
       "2026-07-15"
     ],
+    "block/buzz": [
+      "2026-07-24"
+    ],
     "bojieli/ai-agent-book": [
       "2026-07-20"
     ],
@@ -417,6 +426,9 @@
     ],
     "chthollyphile/folia-major": [
       "2026-07-05"
+    ],
+    "citrolabs/ego-lite": [
+      "2026-07-24"
     ],
     "cloudflare/security-audit-skill": [
       "2026-07-16"
@@ -483,7 +495,8 @@
     ],
     "elder-plinius/T3MP3ST": [
       "2026-07-08",
-      "2026-07-16"
+      "2026-07-16",
+      "2026-07-24"
     ],
     "every-app/open-seo": [
       "2026-06-26",
@@ -550,6 +563,9 @@
     "heygen-com/hyperframes": [
       "2026-06-23"
     ],
+    "hoainho/img2threejs": [
+      "2026-07-24"
+    ],
     "home-assistant/core": [
       "2026-07-13"
     ],
@@ -581,6 +597,9 @@
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
+    ],
+    "jellyfin/jellyfin": [
+      "2026-07-24"
     ],
     "jwasham/coding-interview-university": [
       "2026-06-04"
@@ -737,7 +756,8 @@
       "2026-07-16"
     ],
     "oso95/scroll-world": [
-      "2026-07-16"
+      "2026-07-16",
+      "2026-07-24"
     ],
     "ossu/computer-science": [
       "2026-07-17"
@@ -935,7 +955,8 @@
       "2026-06-19"
     ],
     "withmarbleapp/os-taxonomy": [
-      "2026-07-15"
+      "2026-07-15",
+      "2026-07-24"
     ],
     "wonderwhy-er/DesktopCommanderMCP": [
       "2026-07-09"
@@ -945,7 +966,8 @@
       "2026-07-18"
     ],
     "xai-org/grok-build": [
-      "2026-07-16"
+      "2026-07-16",
+      "2026-07-24"
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
