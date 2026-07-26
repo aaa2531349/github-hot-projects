@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:01:44",
+  "updated_at": "2026-07-26T11:01:17",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -56,7 +56,8 @@
       "2026-07-05"
     ],
     "CoreBunch/Instatic": [
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-26"
     ],
     "Crosstalk-Solutions/project-nomad": [
       "2026-05-31",
@@ -150,6 +151,9 @@
     "Lightricks/LTX-2": [
       "2026-06-19"
     ],
+    "Lordog/dive-into-llms": [
+      "2026-07-26"
+    ],
     "Lum1104/Understand-Anything": [
       "2026-05-28"
     ],
@@ -191,6 +195,9 @@
     "OthmanAdi/planning-with-files": [
       "2026-07-06"
     ],
+    "OtterMind/Chat2DB": [
+      "2026-07-26"
+    ],
     "PaddlePaddle/PaddleOCR": [
       "2026-06-05"
     ],
@@ -225,7 +232,8 @@
       "2026-06-18"
     ],
     "RyanCodrai/turbovec": [
-      "2026-07-18"
+      "2026-07-18",
+      "2026-07-26"
     ],
     "Shubhamsaboo/awesome-llm-apps": [
       "2026-07-13"
@@ -323,12 +331,16 @@
     "andrewrabert/jellium-desktop": [
       "2026-07-20"
     ],
+    "andrewyng/aisuite": [
+      "2026-07-26"
+    ],
     "anthropics/claude-code": [
       "2026-05-31",
       "2026-07-06"
     ],
     "anthropics/claude-cookbooks": [
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-26"
     ],
     "anthropics/claude-plugins-official": [
       "2026-06-24"
@@ -661,7 +673,8 @@
     "mattpocock/skills": [
       "2026-06-18",
       "2026-07-05",
-      "2026-07-15"
+      "2026-07-15",
+      "2026-07-26"
     ],
     "mauriceboe/TREK": [
       "2026-06-26"
@@ -718,7 +731,8 @@
       "2026-05-29",
       "2026-06-18",
       "2026-07-01",
-      "2026-07-09"
+      "2026-07-09",
+      "2026-07-26"
     ],
     "odoo/odoo": [
       "2026-06-04"
@@ -769,7 +783,8 @@
       "2026-05-28"
     ],
     "palmier-io/palmier-pro": [
-      "2026-06-20"
+      "2026-06-20",
+      "2026-07-26"
     ],
     "par274/sharpemu": [
       "2026-07-15"
@@ -780,6 +795,9 @@
     "penpot/penpot": [
       "2026-06-18",
       "2026-07-15"
+    ],
+    "permissionlesstech/bitchat": [
+      "2026-07-26"
     ],
     "perplexityai/bumblebee": [
       "2026-06-04"
