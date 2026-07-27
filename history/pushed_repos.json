@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T11:01:17",
+  "updated_at": "2026-07-27T11:01:54",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -100,7 +100,8 @@
       "2026-05-31"
     ],
     "Fei-Away/Codex-Dream-Skin": [
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-27"
     ],
     "FoundZiGu/GuJumpgate": [
       "2026-06-06"
@@ -328,11 +329,17 @@
     "altic-dev/FluidVoice": [
       "2026-06-29"
     ],
+    "amnezia-vpn/amnezia-client": [
+      "2026-07-27"
+    ],
     "andrewrabert/jellium-desktop": [
       "2026-07-20"
     ],
     "andrewyng/aisuite": [
       "2026-07-26"
+    ],
+    "andrewyng/openworker": [
+      "2026-07-27"
     ],
     "anthropics/claude-code": [
       "2026-05-31",
@@ -613,6 +620,9 @@
     "jellyfin/jellyfin": [
       "2026-07-24"
     ],
+    "jenkinsci/jenkins": [
+      "2026-07-27"
+    ],
     "jwasham/coding-interview-university": [
       "2026-06-04"
     ],
@@ -724,6 +734,9 @@
     "nexu-io/html-anything": [
       "2026-06-03"
     ],
+    "nodejs/node": [
+      "2026-07-27"
+    ],
     "oblien/openship": [
       "2026-07-21"
     ],
@@ -790,7 +803,8 @@
       "2026-07-15"
     ],
     "pbakaus/impeccable": [
-      "2026-06-02"
+      "2026-06-02",
+      "2026-07-27"
     ],
     "penpot/penpot": [
       "2026-06-18",
@@ -798,6 +812,9 @@
     ],
     "permissionlesstech/bitchat": [
       "2026-07-26"
+    ],
+    "permissionlesstech/bitchat-android": [
+      "2026-07-27"
     ],
     "perplexityai/bumblebee": [
       "2026-06-04"
@@ -807,7 +824,8 @@
       "2026-06-20"
     ],
     "pingdotgg/t3code": [
-      "2026-07-13"
+      "2026-07-13",
+      "2026-07-27"
     ],
     "prisma/prisma": [
       "2026-07-09"
@@ -981,7 +999,8 @@
     ],
     "x4gKing/X4G": [
       "2026-07-10",
-      "2026-07-18"
+      "2026-07-18",
+      "2026-07-27"
     ],
     "xai-org/grok-build": [
       "2026-07-16",
@@ -995,6 +1014,9 @@
     ],
     "yikart/AiToEarn": [
       "2026-07-02"
+    ],
+    "yorukot/superfile": [
+      "2026-07-27"
     ],
     "zai-org/GLM-5": [
       "2026-06-19"
