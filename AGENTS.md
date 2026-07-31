@@ -78,3 +78,4 @@
 - 2026-07-28 11:00 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-07-28.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；准备提交并部署到 GitHub Pages。
 - 2026-07-29 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-07-29.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；准备提交并部署到 GitHub Pages。
 - 2026-07-30 11:00 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-07-30.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；准备提交并部署到 GitHub Pages。
+- 2026-07-31 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-07-31.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；准备提交并部署到 GitHub Pages。

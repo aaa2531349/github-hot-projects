@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:00:38",
+  "updated_at": "2026-07-31T11:02:23",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -42,7 +42,8 @@
       "2026-06-29"
     ],
     "ChromeDevTools/chrome-devtools-mcp": [
-      "2026-07-03"
+      "2026-07-03",
+      "2026-07-31"
     ],
     "ColeMurray/background-agents": [
       "2026-07-13"
@@ -282,6 +283,9 @@
     "VoltAgent/awesome-design-md": [
       "2026-07-10"
     ],
+    "WhiskeySockets/Baileys": [
+      "2026-07-31"
+    ],
     "XiaomiMiMo/MiMo-Code": [
       "2026-06-20",
       "2026-06-30",
@@ -313,6 +317,9 @@
       "2026-06-24",
       "2026-07-03",
       "2026-07-29"
+    ],
+    "agavra/tuicr": [
+      "2026-07-31"
     ],
     "agegr/pi-web": [
       "2026-07-23"
@@ -354,6 +361,9 @@
     ],
     "andrewyng/openworker": [
       "2026-07-27"
+    ],
+    "ansible/ansible": [
+      "2026-07-31"
     ],
     "anthropics/claude-code": [
       "2026-05-31",
@@ -522,7 +532,8 @@
       "2026-07-18"
     ],
     "dotnet/aspnetcore": [
-      "2026-06-19"
+      "2026-06-19",
+      "2026-07-31"
     ],
     "dotnet/skills": [
       "2026-07-05"
@@ -732,7 +743,11 @@
       "2026-06-17"
     ],
     "microsoft/AI-For-Beginners": [
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-31"
+    ],
+    "microsoft/PowerToys": [
+      "2026-07-31"
     ],
     "microsoft/SkillOpt": [
       "2026-06-04"
@@ -784,6 +799,9 @@
     ],
     "nodejs/node": [
       "2026-07-27"
+    ],
+    "nyblnet/bento": [
+      "2026-07-31"
     ],
     "oblien/openship": [
       "2026-07-21"
@@ -985,7 +1003,8 @@
       "2026-06-17"
     ],
     "synthetic-sciences/openscience": [
-      "2026-07-18"
+      "2026-07-18",
+      "2026-07-31"
     ],
     "teslamate-org/teslamate": [
       "2026-06-17"
@@ -1020,7 +1039,8 @@
       "2026-07-10"
     ],
     "unicity-aos/aos-ce": [
-      "2026-07-23"
+      "2026-07-23",
+      "2026-07-31"
     ],
     "unicity-astrid/book": [
       "2026-06-24",
