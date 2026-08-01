@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:02:23",
+  "updated_at": "2026-08-01T11:00:49",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -280,6 +280,9 @@
     "V4bel/dirtyfrag": [
       "2026-06-03"
     ],
+    "Vincentwei1021/video-shotcraft": [
+      "2026-08-01"
+    ],
     "VoltAgent/awesome-design-md": [
       "2026-07-10"
     ],
@@ -458,6 +461,9 @@
     "can1357/oh-my-pi": [
       "2026-06-02"
     ],
+    "chatwoot/chatwoot": [
+      "2026-08-01"
+    ],
     "chen08209/FlClash": [
       "2026-05-31"
     ],
@@ -525,6 +531,9 @@
     "different-ai/openwork": [
       "2026-07-30"
     ],
+    "digimata/quill": [
+      "2026-08-01"
+    ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
     ],
@@ -575,9 +584,13 @@
     "gastownhall/gastown": [
       "2026-07-06"
     ],
+    "geo-tp/ESP32-Bit-Pirate": [
+      "2026-08-01"
+    ],
     "github/copilot-sdk": [
       "2026-06-05",
-      "2026-07-17"
+      "2026-07-17",
+      "2026-08-01"
     ],
     "github/spec-kit": [
       "2026-06-05",
@@ -861,7 +874,8 @@
     ],
     "oso95/scroll-world": [
       "2026-07-16",
-      "2026-07-24"
+      "2026-07-24",
+      "2026-08-01"
     ],
     "ossu/computer-science": [
       "2026-07-17"
@@ -1053,6 +1067,9 @@
     "unicity-astrid/sdk-js": [
       "2026-06-05"
     ],
+    "usekaneo/kaneo": [
+      "2026-08-01"
+    ],
     "usestrix/strix": [
       "2026-06-29"
     ],
@@ -1086,7 +1103,8 @@
     ],
     "withmarbleapp/os-taxonomy": [
       "2026-07-15",
-      "2026-07-24"
+      "2026-07-24",
+      "2026-08-01"
     ],
     "wonderwhy-er/DesktopCommanderMCP": [
       "2026-07-09"
@@ -1098,7 +1116,8 @@
     ],
     "xai-org/grok-build": [
       "2026-07-16",
-      "2026-07-24"
+      "2026-07-24",
+      "2026-08-01"
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
@@ -1118,6 +1137,9 @@
     "zgwl/chinese-buy-us-stock-guide": [
       "2026-06-06",
       "2026-06-23"
+    ],
+    "zhaoxuya520/reverse-skill": [
+      "2026-08-01"
     ],
     "zhongerxin/Cowart": [
       "2026-07-07",
