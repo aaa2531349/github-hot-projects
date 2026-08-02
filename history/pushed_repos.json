@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T11:00:49",
+  "updated_at": "2026-08-02T11:02:24",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -187,6 +187,9 @@
     "NanmiCoder/MediaCrawler": [
       "2026-07-28"
     ],
+    "NomaDamas/k-skill": [
+      "2026-08-02"
+    ],
     "NousResearch/hermes-agent": [
       "2026-06-04",
       "2026-06-24"
@@ -269,7 +272,8 @@
       "2026-07-02"
     ],
     "TencentCloud/TencentDB-Agent-Memory": [
-      "2026-07-09"
+      "2026-07-09",
+      "2026-08-02"
     ],
     "Unclecheng-li/VulnClaw": [
       "2026-06-30"
@@ -306,6 +310,9 @@
     ],
     "ZhuLinsen/daily_stock_analysis": [
       "2026-06-22"
+    ],
+    "abus-aikorea/voice-pro": [
+      "2026-08-02"
     ],
     "actions/checkout": [
       "2026-07-03"
@@ -453,7 +460,8 @@
       "2026-06-22"
     ],
     "bytedance/deer-flow": [
-      "2026-06-22"
+      "2026-06-22",
+      "2026-08-02"
     ],
     "calesthio/OpenMontage": [
       "2026-06-20"
@@ -553,6 +561,9 @@
     "dreamhunter2333/cloudflare_temp_email": [
       "2026-07-23"
     ],
+    "drumih/turbo-fieldfare": [
+      "2026-08-02"
+    ],
     "earthtojake/text-to-cad": [
       "2026-07-22"
     ],
@@ -591,6 +602,9 @@
       "2026-06-05",
       "2026-07-17",
       "2026-08-01"
+    ],
+    "github/gh-stack": [
+      "2026-08-02"
     ],
     "github/spec-kit": [
       "2026-06-05",
@@ -669,6 +683,9 @@
     "iptv-org/iptv": [
       "2026-06-17",
       "2026-07-21"
+    ],
+    "iv-org/invidious": [
+      "2026-08-02"
     ],
     "jamiepine/voicebox": [
       "2026-06-23",
@@ -765,11 +782,17 @@
     "microsoft/SkillOpt": [
       "2026-06-04"
     ],
+    "microsoft/TRELLIS.2": [
+      "2026-08-02"
+    ],
     "microsoft/VibeVoice": [
       "2026-07-30"
     ],
     "microsoft/agent-governance-toolkit": [
       "2026-07-29"
+    ],
+    "microsoft/generative-ai-for-beginners": [
+      "2026-08-02"
     ],
     "microsoft/markitdown": [
       "2026-05-29"
@@ -1121,6 +1144,9 @@
     ],
     "xbtlin/ai-berkshire": [
       "2026-06-26"
+    ],
+    "yc-software/qm": [
+      "2026-08-02"
     ],
     "yifanfeng97/Hyper-Extract": [
       "2026-06-19"
