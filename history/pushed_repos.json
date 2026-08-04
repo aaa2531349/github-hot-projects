@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T11:01:31",
+  "updated_at": "2026-08-04T11:02:00",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -19,6 +19,9 @@
     ],
     "AlexsJones/llmfit": [
       "2026-07-22"
+    ],
+    "Alishahryar1/free-claude-code": [
+      "2026-08-04"
     ],
     "AprilNEA/OpenLogi": [
       "2026-06-06"
@@ -103,7 +106,8 @@
     ],
     "Fei-Away/Codex-Dream-Skin": [
       "2026-07-17",
-      "2026-07-27"
+      "2026-07-27",
+      "2026-08-04"
     ],
     "FoundZiGu/GuJumpgate": [
       "2026-06-06"
@@ -374,7 +378,8 @@
       "2026-07-26"
     ],
     "andrewyng/openworker": [
-      "2026-07-27"
+      "2026-07-27",
+      "2026-08-04"
     ],
     "ansible/ansible": [
       "2026-07-31"
@@ -557,6 +562,9 @@
     "docusealco/docuseal": [
       "2026-07-18"
     ],
+    "donnemartin/system-design-primer": [
+      "2026-08-04"
+    ],
     "dotnet/aspnetcore": [
       "2026-06-19",
       "2026-07-31"
@@ -594,6 +602,9 @@
     "firecrawl/firecrawl": [
       "2026-06-23",
       "2026-07-07"
+    ],
+    "firecrawl/pdf-inspector": [
+      "2026-08-04"
     ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
@@ -702,7 +713,8 @@
     ],
     "jamiepine/voicebox": [
       "2026-06-23",
-      "2026-07-20"
+      "2026-07-20",
+      "2026-08-04"
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
@@ -751,6 +763,9 @@
     "likec4/likec4": [
       "2026-07-23"
     ],
+    "livekit/agents": [
+      "2026-08-04"
+    ],
     "lobehub/lobehub": [
       "2026-07-17"
     ],
@@ -760,7 +775,8 @@
     "lyogavin/airllm": [
       "2026-06-04",
       "2026-06-23",
-      "2026-08-03"
+      "2026-08-03",
+      "2026-08-04"
     ],
     "maderix/ANE": [
       "2026-07-30"
@@ -1022,7 +1038,8 @@
     ],
     "shiyu-coder/Kronos": [
       "2026-05-28",
-      "2026-07-23"
+      "2026-07-23",
+      "2026-08-04"
     ],
     "simonlin1212/a-stock-data": [
       "2026-06-06"
@@ -1181,7 +1198,8 @@
       "2026-06-23"
     ],
     "zhaoxuya520/reverse-skill": [
-      "2026-08-01"
+      "2026-08-01",
+      "2026-08-04"
     ],
     "zhongerxin/Cowart": [
       "2026-07-07",
