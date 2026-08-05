@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:02:00",
+  "updated_at": "2026-08-05T11:01:49",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -96,7 +96,8 @@
       "2026-07-22"
     ],
     "EveryInc/compound-engineering-plugin": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-08-05"
     ],
     "FULU-Foundation/OrcaSlicer-bambulab": [
       "2026-06-03"
@@ -381,6 +382,9 @@
       "2026-07-27",
       "2026-08-04"
     ],
+    "angular/angular": [
+      "2026-08-05"
+    ],
     "ansible/ansible": [
       "2026-07-31"
     ],
@@ -466,7 +470,8 @@
       "2026-07-28"
     ],
     "browser-use/video-use": [
-      "2026-06-30"
+      "2026-06-30",
+      "2026-08-05"
     ],
     "byoungd/English-level-up-tips": [
       "2026-05-29",
@@ -533,7 +538,8 @@
       "2026-05-31"
     ],
     "cypress-io/cypress": [
-      "2026-06-17"
+      "2026-06-17",
+      "2026-08-05"
     ],
     "davidondrej/skills": [
       "2026-07-16"
@@ -545,6 +551,9 @@
       "2026-07-02",
       "2026-07-10",
       "2026-07-18"
+    ],
+    "denoland/deno": [
+      "2026-08-05"
     ],
     "diegosouzapw/OmniRoute": [
       "2026-07-01",
@@ -608,6 +617,9 @@
     ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
+    ],
+    "gabime/spdlog": [
+      "2026-08-05"
     ],
     "galilai-group/stable-worldmodel": [
       "2026-05-31"
@@ -878,7 +890,8 @@
       "2026-06-18",
       "2026-07-01",
       "2026-07-09",
-      "2026-07-26"
+      "2026-07-26",
+      "2026-08-05"
     ],
     "ocornut/imgui": [
       "2026-07-28"
@@ -1075,6 +1088,9 @@
       "2026-07-18",
       "2026-07-31"
     ],
+    "tailwindlabs/tailwindcss": [
+      "2026-08-05"
+    ],
     "teslamate-org/teslamate": [
       "2026-06-17"
     ],
@@ -1102,6 +1118,9 @@
     ],
     "twentyhq/twenty": [
       "2026-05-28"
+    ],
+    "uber/ADR": [
+      "2026-08-05"
     ],
     "unclecode/crawl4ai": [
       "2026-05-29",
@@ -1152,6 +1171,9 @@
     ],
     "vxcontrol/pentagi": [
       "2026-07-10"
+    ],
+    "webpack/webpack": [
+      "2026-08-05"
     ],
     "withastro/flue": [
       "2026-06-06",
