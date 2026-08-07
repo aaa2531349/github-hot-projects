@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:01:49",
+  "updated_at": "2026-08-07T11:00:45",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -265,6 +265,9 @@
     "Shubhamsaboo/awesome-llm-apps": [
       "2026-07-13"
     ],
+    "Significant-Gravitas/AutoGPT": [
+      "2026-08-07"
+    ],
     "SmartlyDressedGames/U3-SDK": [
       "2026-07-10"
     ],
@@ -273,6 +276,9 @@
     ],
     "Stirling-Tools/Stirling-PDF": [
       "2026-06-23"
+    ],
+    "TapXWorld/ChinaTextbook": [
+      "2026-08-07"
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02"
@@ -328,7 +334,8 @@
     ],
     "addyosmani/agent-skills": [
       "2026-07-07",
-      "2026-07-09"
+      "2026-07-09",
+      "2026-08-07"
     ],
     "affaan-m/ECC": [
       "2026-05-28",
@@ -509,6 +516,9 @@
     "citrolabs/ego-lite": [
       "2026-07-24"
     ],
+    "cloudflare/computer": [
+      "2026-08-07"
+    ],
     "cloudflare/security-audit-skill": [
       "2026-07-16"
     ],
@@ -645,6 +655,9 @@
       "2026-06-05",
       "2026-07-14"
     ],
+    "goauthentik/authentik": [
+      "2026-08-07"
+    ],
     "godotengine/godot": [
       "2026-06-02"
     ],
@@ -656,6 +669,9 @@
     ],
     "google/agents-cli": [
       "2026-07-01"
+    ],
+    "google/guava": [
+      "2026-08-07"
     ],
     "grokability/snipe-it": [
       "2026-07-30"
@@ -691,6 +707,9 @@
     "home-assistant/core": [
       "2026-07-13"
     ],
+    "huangruiteng/loopx": [
+      "2026-08-07"
+    ],
     "huggingface/speech-to-speech": [
       "2026-07-29"
     ],
@@ -707,7 +726,8 @@
       "2026-07-17"
     ],
     "img2threejs/img2threejs": [
-      "2026-07-28"
+      "2026-07-28",
+      "2026-08-07"
     ],
     "immich-app/immich": [
       "2026-07-05"
@@ -806,7 +826,8 @@
       "2026-06-18",
       "2026-07-05",
       "2026-07-15",
-      "2026-07-26"
+      "2026-07-26",
+      "2026-08-07"
     ],
     "mauriceboe/TREK": [
       "2026-06-26"
@@ -1095,7 +1116,8 @@
       "2026-06-17"
     ],
     "tirth8205/code-review-graph": [
-      "2026-07-18"
+      "2026-07-18",
+      "2026-08-07"
     ],
     "togatoga/karukan": [
       "2026-07-02"
