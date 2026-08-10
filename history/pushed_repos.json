@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:01:28",
+  "updated_at": "2026-08-10T11:37:59",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -50,6 +50,9 @@
     ],
     "ColeMurray/background-agents": [
       "2026-07-13"
+    ],
+    "Comfy-Org/ComfyUI": [
+      "2026-08-10"
     ],
     "ComposioHQ/awesome-claude-skills": [
       "2026-07-23"
@@ -331,7 +334,8 @@
       "2026-07-05"
     ],
     "ZhuLinsen/daily_stock_analysis": [
-      "2026-06-22"
+      "2026-06-22",
+      "2026-08-10"
     ],
     "abus-aikorea/voice-pro": [
       "2026-08-02"
@@ -677,6 +681,9 @@
     "godotengine/godot": [
       "2026-06-02"
     ],
+    "google-deepmind/weathernext": [
+      "2026-08-10"
+    ],
     "google-labs-code/design.md": [
       "2026-06-26"
     ],
@@ -703,6 +710,9 @@
     ],
     "harvard-edge/cs249r_book": [
       "2026-07-03"
+    ],
+    "harveyai/harvey-labs": [
+      "2026-08-10"
     ],
     "hasaneyldrm/exercises-dataset": [
       "2026-07-01",
@@ -896,7 +906,8 @@
     ],
     "msitarzewski/agency-agents": [
       "2026-06-30",
-      "2026-07-21"
+      "2026-07-21",
+      "2026-08-10"
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28",
@@ -1036,7 +1047,11 @@
     ],
     "pingdotgg/t3code": [
       "2026-07-13",
-      "2026-07-27"
+      "2026-07-27",
+      "2026-08-10"
+    ],
+    "pranshuparmar/witr": [
+      "2026-08-10"
     ],
     "prisma/prisma": [
       "2026-07-09"
@@ -1173,7 +1188,8 @@
     ],
     "unicity-aos/aos-ce": [
       "2026-07-23",
-      "2026-07-31"
+      "2026-07-31",
+      "2026-08-10"
     ],
     "unicity-astrid/book": [
       "2026-06-24",
@@ -1211,6 +1227,9 @@
     "virgiliojr94/book-to-skill": [
       "2026-07-29"
     ],
+    "vitali87/code-graph-rag": [
+      "2026-08-10"
+    ],
     "vudovn/ag-kit": [
       "2026-07-28"
     ],
@@ -1247,7 +1266,8 @@
       "2026-06-26"
     ],
     "yc-software/qm": [
-      "2026-08-02"
+      "2026-08-02",
+      "2026-08-10"
     ],
     "yifanfeng97/Hyper-Extract": [
       "2026-06-19"
