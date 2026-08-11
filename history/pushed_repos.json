@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:37:59",
+  "updated_at": "2026-08-11T11:01:23",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -190,7 +190,8 @@
       "2026-07-30"
     ],
     "MoonshotAI/Kimi-K3": [
-      "2026-07-29"
+      "2026-07-29",
+      "2026-08-11"
     ],
     "MoonshotAI/kimi-cli": [
       "2026-07-21"
@@ -199,7 +200,8 @@
       "2026-06-05"
     ],
     "NanmiCoder/MediaCrawler": [
-      "2026-07-28"
+      "2026-07-28",
+      "2026-08-11"
     ],
     "NomaDamas/k-skill": [
       "2026-08-02"
@@ -471,7 +473,8 @@
       "2026-08-09"
     ],
     "bashalarmistalt/decimen-optical-transfer": [
-      "2026-08-03"
+      "2026-08-03",
+      "2026-08-11"
     ],
     "bikini/exploitarium": [
       "2026-07-07",
@@ -565,6 +568,9 @@
       "2026-06-17",
       "2026-08-05"
     ],
+    "danielmiessler/LifeOS": [
+      "2026-08-11"
+    ],
     "davidondrej/skills": [
       "2026-07-16"
     ],
@@ -640,7 +646,8 @@
     ],
     "firecrawl/firecrawl": [
       "2026-06-23",
-      "2026-07-07"
+      "2026-07-07",
+      "2026-08-11"
     ],
     "firecrawl/pdf-inspector": [
       "2026-08-04"
@@ -968,6 +975,9 @@
     "op7418/guizang-social-card-skill": [
       "2026-06-24"
     ],
+    "opa334/Dopamine": [
+      "2026-08-11"
+    ],
     "openai/codex-plugin-cc": [
       "2026-07-03"
     ],
@@ -1011,6 +1021,9 @@
     "palmier-io/palmier-pro": [
       "2026-06-20",
       "2026-07-26"
+    ],
+    "paperclipai/paperclip": [
+      "2026-08-11"
     ],
     "paperswithbacktest/awesome-systematic-trading": [
       "2026-07-29"
@@ -1093,13 +1106,17 @@
     "ruvnet/RuView": [
       "2026-05-31",
       "2026-07-06",
-      "2026-07-23"
+      "2026-07-23",
+      "2026-08-11"
     ],
     "santifer/career-ops": [
       "2026-07-03"
     ],
     "schollz/croc": [
       "2026-07-22"
+    ],
+    "semantica-agi/semantica": [
+      "2026-08-11"
     ],
     "shadcn/improve": [
       "2026-06-22",
@@ -1169,6 +1186,9 @@
     ],
     "tradesdontlie/tradingview-mcp": [
       "2026-07-22"
+    ],
+    "trycompai/crm": [
+      "2026-08-11"
     ],
     "trycua/cua": [
       "2026-07-20"
