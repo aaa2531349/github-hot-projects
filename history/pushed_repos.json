@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T11:02:11",
+  "updated_at": "2026-08-13T11:02:12",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -170,7 +170,8 @@
       "2026-07-06"
     ],
     "Lightricks/LTX-2": [
-      "2026-06-19"
+      "2026-06-19",
+      "2026-08-13"
     ],
     "Lordog/dive-into-llms": [
       "2026-07-26"
@@ -199,6 +200,9 @@
     ],
     "MoonshotAI/kimi-cli": [
       "2026-07-21"
+    ],
+    "NVIDIA-NeMo/Switchyard": [
+      "2026-08-13"
     ],
     "NVIDIA/cosmos": [
       "2026-06-05"
@@ -342,6 +346,9 @@
     "ZhuLinsen/daily_stock_analysis": [
       "2026-06-22",
       "2026-08-10"
+    ],
+    "ZuodaoTech/everyone-can-use-english": [
+      "2026-08-13"
     ],
     "abus-aikorea/voice-pro": [
       "2026-08-02"
@@ -517,6 +524,9 @@
     ],
     "can1357/oh-my-pi": [
       "2026-06-02"
+    ],
+    "cathrynlavery/diagram-design": [
+      "2026-08-13"
     ],
     "chatwoot/chatwoot": [
       "2026-08-01"
@@ -759,6 +769,9 @@
     "huggingface/transformers": [
       "2026-08-12"
     ],
+    "hugohe3/ppt-master": [
+      "2026-08-13"
+    ],
     "huxingyi/autoremesher": [
       "2026-07-09"
     ],
@@ -780,6 +793,9 @@
     ],
     "imthenachoman/How-To-Secure-A-Linux-Server": [
       "2026-07-10"
+    ],
+    "infiniflow/ragflow": [
+      "2026-08-13"
     ],
     "iptv-org/iptv": [
       "2026-06-17",
@@ -853,6 +869,9 @@
     "lobehub/lobehub": [
       "2026-07-17"
     ],
+    "localsend/localsend": [
+      "2026-08-13"
+    ],
     "logto-io/logto": [
       "2026-06-30"
     ],
@@ -861,6 +880,9 @@
       "2026-06-23",
       "2026-08-03",
       "2026-08-04"
+    ],
+    "macro-inc/macro": [
+      "2026-08-13"
     ],
     "maderix/ANE": [
       "2026-07-30"
@@ -1147,7 +1169,8 @@
     "shiyu-coder/Kronos": [
       "2026-05-28",
       "2026-07-23",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-13"
     ],
     "simonlin1212/a-stock-data": [
       "2026-06-06"
@@ -1162,7 +1185,8 @@
       "2026-07-07"
     ],
     "smicallef/spiderfoot": [
-      "2026-06-22"
+      "2026-06-22",
+      "2026-08-13"
     ],
     "soxoj/maigret": [
       "2026-06-30"
