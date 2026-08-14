@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:02:12",
+  "updated_at": "2026-08-14T11:01:49",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -190,6 +190,9 @@
     ],
     "MemPalace/mempalace": [
       "2026-06-06"
+    ],
+    "MiniMax-AI/MiniMax-H3": [
+      "2026-08-14"
     ],
     "MoonshotAI/FlashKDA": [
       "2026-07-30"
@@ -398,7 +401,8 @@
       "2026-07-02"
     ],
     "altic-dev/FluidVoice": [
-      "2026-06-29"
+      "2026-06-29",
+      "2026-08-14"
     ],
     "amnezia-vpn/amnezia-client": [
       "2026-07-27"
@@ -518,6 +522,9 @@
       "2026-06-22",
       "2026-08-02"
     ],
+    "cactus-compute/needle": [
+      "2026-08-14"
+    ],
     "calesthio/OpenMontage": [
       "2026-06-20",
       "2026-08-12"
@@ -599,6 +606,9 @@
       "2026-07-10",
       "2026-07-18"
     ],
+    "deepseek-ai/deepseek-harness": [
+      "2026-08-14"
+    ],
     "denoland/celld": [
       "2026-08-09"
     ],
@@ -638,7 +648,8 @@
       "2026-07-23"
     ],
     "drumih/turbo-fieldfare": [
-      "2026-08-02"
+      "2026-08-02",
+      "2026-08-14"
     ],
     "earthtojake/text-to-cad": [
       "2026-07-22"
@@ -757,6 +768,9 @@
     "hoainho/img2threejs": [
       "2026-07-24"
     ],
+    "holaboss-ai/holaOS": [
+      "2026-08-14"
+    ],
     "home-assistant/core": [
       "2026-07-13"
     ],
@@ -831,6 +845,9 @@
     "karakeep-app/karakeep": [
       "2026-07-07"
     ],
+    "kepano/obsidian-skills": [
+      "2026-08-14"
+    ],
     "koala73/worldmonitor": [
       "2026-06-20",
       "2026-07-22"
@@ -856,6 +873,9 @@
     ],
     "lfnovo/open-notebook": [
       "2026-06-05"
+    ],
+    "lightningpixel/modly": [
+      "2026-08-14"
     ],
     "likec4/likec4": [
       "2026-07-23"
@@ -905,6 +925,9 @@
     ],
     "mauriceboe/TREK": [
       "2026-06-26"
+    ],
+    "megadose/holehe": [
+      "2026-08-14"
     ],
     "meshery/meshery": [
       "2026-06-17"
@@ -1267,6 +1290,9 @@
     ],
     "unicity-astrid/sdk-js": [
       "2026-06-05"
+    ],
+    "unslothai/unsloth": [
+      "2026-08-14"
     ],
     "usekaneo/kaneo": [
       "2026-08-01",
