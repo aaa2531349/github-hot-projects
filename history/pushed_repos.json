@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:01:49",
+  "updated_at": "2026-08-16T11:01:32",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -125,6 +125,9 @@
     "Graphify-Labs/graphify": [
       "2026-07-14"
     ],
+    "HKUDS/CLI-Anything": [
+      "2026-08-16"
+    ],
     "HKUDS/DeepTutor": [
       "2026-07-16",
       "2026-08-12"
@@ -184,6 +187,9 @@
     ],
     "MadsLorentzen/ai-job-search": [
       "2026-07-08"
+    ],
+    "MakazhanAlpamys/Soup": [
+      "2026-08-16"
     ],
     "Mebus/cupp": [
       "2026-07-01"
@@ -312,6 +318,9 @@
     "TencentCloud/TencentDB-Agent-Memory": [
       "2026-07-09",
       "2026-08-02"
+    ],
+    "ToolJet/ToolJet": [
+      "2026-08-16"
     ],
     "Unclecheng-li/VulnClaw": [
       "2026-06-30"
@@ -452,6 +461,9 @@
       "2026-06-03",
       "2026-08-03"
     ],
+    "anywhere-labs/deepseek-harness-desktop": [
+      "2026-08-16"
+    ],
     "apache/cassandra": [
       "2026-07-28"
     ],
@@ -555,7 +567,8 @@
       "2026-07-05"
     ],
     "citrolabs/ego-lite": [
-      "2026-07-24"
+      "2026-07-24",
+      "2026-08-16"
     ],
     "cloudflare/computer": [
       "2026-08-07"
@@ -578,6 +591,9 @@
     "continuedev/continue": [
       "2026-06-18"
     ],
+    "cordiverse/cordis": [
+      "2026-08-16"
+    ],
     "coreyhaines31/marketingskills": [
       "2026-07-06",
       "2026-07-14"
@@ -586,7 +602,8 @@
       "2026-06-29"
     ],
     "cursor/plugins": [
-      "2026-05-31"
+      "2026-05-31",
+      "2026-08-16"
     ],
     "cypress-io/cypress": [
       "2026-06-17",
@@ -708,7 +725,8 @@
     ],
     "github/spec-kit": [
       "2026-06-05",
-      "2026-07-14"
+      "2026-07-14",
+      "2026-08-16"
     ],
     "goauthentik/authentik": [
       "2026-08-07"
@@ -736,6 +754,9 @@
     ],
     "grokability/snipe-it": [
       "2026-07-30"
+    ],
+    "guillaumemeyer/watermarks-remover": [
+      "2026-08-16"
     ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
@@ -1135,6 +1156,9 @@
     ],
     "protocolbuffers/protobuf": [
       "2026-07-18"
+    ],
+    "public-apis/public-apis": [
+      "2026-08-16"
     ],
     "puppeteer/puppeteer": [
       "2026-06-17"
