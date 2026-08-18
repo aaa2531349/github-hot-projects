@@ -30,12 +30,14 @@ trap cleanup EXIT
     HOME="/Users/seven" \
     PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" \
     TERM="dumb" \
-    /opt/homebrew/bin/codex exec \
+    /opt/homebrew/bin/codex \
     --cd "$PROJECT_DIR" \
-    --model gpt-5 \
+    --model gpt-5.5 \
     --ask-for-approval never \
     --sandbox danger-full-access \
     --search \
+    exec \
+    --ignore-user-config \
     --output-last-message "$LAST_MESSAGE_FILE" \
     < "$PROMPT_FILE"
 
