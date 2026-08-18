@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:03:28",
+  "updated_at": "2026-08-18T11:01:48",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -21,7 +21,8 @@
       "2026-07-08"
     ],
     "AlexsJones/llmfit": [
-      "2026-07-22"
+      "2026-07-22",
+      "2026-08-18"
     ],
     "Alishahryar1/free-claude-code": [
       "2026-08-04"
@@ -388,6 +389,9 @@
       "2026-07-03",
       "2026-07-29"
     ],
+    "agalwood/Motrix": [
+      "2026-08-18"
+    ],
     "agavra/tuicr": [
       "2026-07-31"
     ],
@@ -399,6 +403,9 @@
     ],
     "aishwaryanr/awesome-generative-ai-guide": [
       "2026-06-20"
+    ],
+    "akitaonrails/ai-memory": [
+      "2026-08-18"
     ],
     "alibaba/open-code-review": [
       "2026-07-24"
@@ -778,7 +785,8 @@
       "2026-05-28"
     ],
     "harry0703/MoneyPrinterTurbo": [
-      "2026-05-28"
+      "2026-05-28",
+      "2026-08-18"
     ],
     "harvard-edge/cs249r_book": [
       "2026-07-03"
@@ -840,7 +848,8 @@
       "2026-08-07"
     ],
     "immich-app/immich": [
-      "2026-07-05"
+      "2026-07-05",
+      "2026-08-18"
     ],
     "imthenachoman/How-To-Secure-A-Linux-Server": [
       "2026-07-10"
@@ -872,6 +881,9 @@
     ],
     "jenkinsci/jenkins": [
       "2026-07-27"
+    ],
+    "jundot/omlx": [
+      "2026-08-18"
     ],
     "jwasham/coding-interview-university": [
       "2026-06-04"
@@ -1013,7 +1025,8 @@
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28",
-      "2026-06-22"
+      "2026-06-22",
+      "2026-08-18"
     ],
     "music-assistant/server": [
       "2026-06-17"
@@ -1025,6 +1038,9 @@
     ],
     "n0-computer/iroh": [
       "2026-06-18"
+    ],
+    "nautechsystems/nautilus_trader": [
+      "2026-08-18"
     ],
     "nesquena/hermes-webui": [
       "2026-06-02"
@@ -1214,7 +1230,8 @@
       "2026-08-11"
     ],
     "santifer/career-ops": [
-      "2026-07-03"
+      "2026-07-03",
+      "2026-08-18"
     ],
     "schollz/croc": [
       "2026-07-22"
@@ -1342,7 +1359,8 @@
       "2026-08-03"
     ],
     "usestrix/strix": [
-      "2026-06-29"
+      "2026-06-29",
+      "2026-08-18"
     ],
     "veracrypt/VeraCrypt": [
       "2026-06-30"
