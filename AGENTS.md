@@ -94,3 +94,4 @@
 - 2026-08-16 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-08-16.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；检测到 2026-08-15 未生成归档，因无法还原当日 Trending 快照而不补写伪造数据；准备提交并部署到 GitHub Pages。
 - 2026-08-17 11:03 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-08-17.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源包含 GitHub Trending 和 Search fallback；准备提交并部署到 GitHub Pages。
 - 2026-08-18 11:01 Asia/Shanghai - 每日自动化更新网站数据：刷新 `web/data/latest.json`、新增 `web/data/archive/2026-08-18.json`、更新 `web/data/dates.json` 和 `history/pushed_repos.json`，补齐 10 条中文简介；本次来源为 GitHub Trending；准备提交并部署到 GitHub Pages。
+- 2026-08-18 20:22 Asia/Shanghai - 暂停旧 `github-top-10` heartbeat 自动化：该任务绑定旧对话而非项目目录，后续运行会因沙箱可写根和网络权限反复请求确认；尝试迁移为项目级 cron 时自动化接口缺少可用 `projectId`，因此保持暂停，避免继续打扰用户。
