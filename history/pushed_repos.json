@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T11:01:48",
+  "updated_at": "2026-08-26T12:16:39",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -16,6 +16,9 @@
     ],
     "AIEraDev/Clypra": [
       "2026-07-15"
+    ],
+    "AgriciDaniel/claude-obsidian": [
+      "2026-08-26"
     ],
     "AhmadIbrahiim/Website-downloader": [
       "2026-07-08"
@@ -190,7 +193,8 @@
       "2026-07-29"
     ],
     "MadsLorentzen/ai-job-search": [
-      "2026-07-08"
+      "2026-07-08",
+      "2026-08-26"
     ],
     "MakazhanAlpamys/Soup": [
       "2026-08-16"
@@ -296,7 +300,8 @@
       "2026-07-26"
     ],
     "Shubhamsaboo/awesome-llm-apps": [
-      "2026-07-13"
+      "2026-07-13",
+      "2026-08-26"
     ],
     "Significant-Gravitas/AutoGPT": [
       "2026-08-07"
@@ -315,7 +320,8 @@
     ],
     "TauricResearch/TradingAgents": [
       "2026-06-02",
-      "2026-08-09"
+      "2026-08-09",
+      "2026-08-26"
     ],
     "TencentCloud/CubeSandbox": [
       "2026-07-02"
@@ -456,6 +462,9 @@
       "2026-07-10",
       "2026-07-26"
     ],
+    "anthropics/claude-plugins-community": [
+      "2026-08-26"
+    ],
     "anthropics/claude-plugins-official": [
       "2026-06-24"
     ],
@@ -481,6 +490,9 @@
     ],
     "apache/cassandra": [
       "2026-07-28"
+    ],
+    "apache/maka": [
+      "2026-08-26"
     ],
     "apache/ossie": [
       "2026-07-17"
@@ -520,7 +532,8 @@
       "2026-08-09"
     ],
     "basecamp/omarchy": [
-      "2026-08-17"
+      "2026-08-17",
+      "2026-08-26"
     ],
     "bashalarmistalt/decimen-optical-transfer": [
       "2026-08-03",
@@ -722,6 +735,9 @@
     ],
     "freeCodeCamp/freeCodeCamp": [
       "2026-06-17"
+    ],
+    "freestylefly/awesome-gpt-image-2": [
+      "2026-08-26"
     ],
     "gabime/spdlog": [
       "2026-08-05"
@@ -1215,7 +1231,8 @@
       "2026-07-01"
     ],
     "rohitg00/ai-engineering-from-scratch": [
-      "2026-07-20"
+      "2026-07-20",
+      "2026-08-26"
     ],
     "rommapp/romm": [
       "2026-07-05"
@@ -1298,6 +1315,9 @@
     ],
     "teslamate-org/teslamate": [
       "2026-06-17"
+    ],
+    "tinyhumansai/openhuman": [
+      "2026-08-26"
     ],
     "tirth8205/code-review-graph": [
       "2026-07-18",
