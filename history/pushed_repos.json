@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:16:39",
+  "updated_at": "2026-08-26T12:24:47",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -94,7 +94,8 @@
     "DietrichGebert/ponytail": [
       "2026-06-20",
       "2026-06-30",
-      "2026-07-08"
+      "2026-07-08",
+      "2026-08-26"
     ],
     "DigitalPlatDev/FreeDomain": [
       "2026-05-29"
@@ -466,7 +467,8 @@
       "2026-08-26"
     ],
     "anthropics/claude-plugins-official": [
-      "2026-06-24"
+      "2026-06-24",
+      "2026-08-26"
     ],
     "anthropics/cwc-workshops": [
       "2026-07-18"
@@ -488,6 +490,9 @@
     "anywhere-labs/deepseek-harness-desktop": [
       "2026-08-16"
     ],
+    "anywhere-labs/dsh-desktop": [
+      "2026-08-26"
+    ],
     "apache/cassandra": [
       "2026-07-28"
     ],
@@ -505,6 +510,9 @@
     ],
     "argoproj/argo-cd": [
       "2026-07-09"
+    ],
+    "asciimoo/hister": [
+      "2026-08-26"
     ],
     "asgeirtj/system_prompts_leaks": [
       "2026-06-22",
@@ -658,7 +666,8 @@
       "2026-07-18"
     ],
     "deepseek-ai/deepseek-harness": [
-      "2026-08-14"
+      "2026-08-14",
+      "2026-08-26"
     ],
     "denoland/celld": [
       "2026-08-09"
@@ -723,7 +732,8 @@
     ],
     "firecrawl/anydoc": [
       "2026-08-09",
-      "2026-08-17"
+      "2026-08-17",
+      "2026-08-26"
     ],
     "firecrawl/firecrawl": [
       "2026-06-23",
@@ -795,7 +805,8 @@
       "2026-07-30"
     ],
     "guillaumemeyer/watermarks-remover": [
-      "2026-08-16"
+      "2026-08-16",
+      "2026-08-26"
     ],
     "hardikpandya/stop-slop": [
       "2026-05-28"
@@ -981,6 +992,9 @@
     "makerspet/oomwoo": [
       "2026-07-07"
     ],
+    "marin-community/marin": [
+      "2026-08-26"
+    ],
     "mattpocock/skills": [
       "2026-06-18",
       "2026-07-05",
@@ -1043,6 +1057,9 @@
       "2026-05-28",
       "2026-06-22",
       "2026-08-18"
+    ],
+    "multica-ai/andrej-karpathy-skills": [
+      "2026-08-26"
     ],
     "music-assistant/server": [
       "2026-06-17"
@@ -1107,6 +1124,9 @@
     ],
     "opa334/Dopamine": [
       "2026-08-11"
+    ],
+    "openai/codex": [
+      "2026-08-26"
     ],
     "openai/codex-plugin-cc": [
       "2026-07-03"
