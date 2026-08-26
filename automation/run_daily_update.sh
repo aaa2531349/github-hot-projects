@@ -1,7 +1,8 @@
 #!/bin/zsh
 set -euo pipefail
 
-PROJECT_DIR="/Users/seven/Desktop/Codex/技能库/github热门项目"
+SCRIPT_DIR="${0:A:h}"
+PROJECT_DIR="${SCRIPT_DIR:h}"
 PROMPT_FILE="$PROJECT_DIR/automation/daily_update_prompt.md"
 LOG_DIR="$PROJECT_DIR/logs"
 LOCK_DIR="/tmp/github-hot-projects-daily.lock"
