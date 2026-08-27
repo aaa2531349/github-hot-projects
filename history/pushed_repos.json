@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:24:47",
+  "updated_at": "2026-08-27T11:00:35",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -28,7 +28,8 @@
       "2026-08-18"
     ],
     "Alishahryar1/free-claude-code": [
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-27"
     ],
     "AprilNEA/OpenLogi": [
       "2026-06-06"
@@ -63,6 +64,9 @@
     ],
     "ComposioHQ/awesome-claude-skills": [
       "2026-07-23"
+    ],
+    "ConardLi/garden-skills": [
+      "2026-08-27"
     ],
     "CopilotKit/CopilotKit": [
       "2026-06-06"
@@ -164,6 +168,9 @@
       "2026-07-14",
       "2026-07-23"
     ],
+    "K-Dense-AI/scientific-agent-skills": [
+      "2026-08-27"
+    ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
     ],
@@ -207,7 +214,8 @@
       "2026-06-06"
     ],
     "MiniMax-AI/MiniMax-H3": [
-      "2026-08-14"
+      "2026-08-14",
+      "2026-08-27"
     ],
     "MoonshotAI/FlashKDA": [
       "2026-07-30"
@@ -346,6 +354,9 @@
     "Vincentwei1021/video-shotcraft": [
       "2026-08-01",
       "2026-08-17"
+    ],
+    "VoltAgent/awesome-agent-skills": [
+      "2026-08-27"
     ],
     "VoltAgent/awesome-design-md": [
       "2026-07-10"
@@ -519,7 +530,8 @@
       "2026-07-05"
     ],
     "awesome-dsh-plugin/awesome-dsh-plugin": [
-      "2026-08-17"
+      "2026-08-17",
+      "2026-08-27"
     ],
     "aws/agent-toolkit-for-aws": [
       "2026-06-26"
@@ -563,6 +575,9 @@
     "bradautomates/claude-video": [
       "2026-07-07",
       "2026-07-28"
+    ],
+    "browser-use/browser-use": [
+      "2026-08-27"
     ],
     "browser-use/video-use": [
       "2026-06-30",
@@ -1357,10 +1372,14 @@
       "2026-07-22"
     ],
     "trycompai/crm": [
-      "2026-08-11"
+      "2026-08-11",
+      "2026-08-27"
     ],
     "trycua/cua": [
       "2026-07-20"
+    ],
+    "tt-a1i/archify": [
+      "2026-08-27"
     ],
     "tursodatabase/turso": [
       "2026-06-22"
@@ -1463,7 +1482,8 @@
     ],
     "yc-software/qm": [
       "2026-08-02",
-      "2026-08-10"
+      "2026-08-10",
+      "2026-08-27"
     ],
     "yifanfeng97/Hyper-Extract": [
       "2026-06-19"
