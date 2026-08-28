@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T11:00:35",
+  "updated_at": "2026-08-28T11:00:27",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -63,7 +63,8 @@
       "2026-08-10"
     ],
     "ComposioHQ/awesome-claude-skills": [
-      "2026-07-23"
+      "2026-07-23",
+      "2026-08-28"
     ],
     "ConardLi/garden-skills": [
       "2026-08-27"
@@ -161,6 +162,9 @@
     "JCodesMore/ai-website-cloner-template": [
       "2026-06-23"
     ],
+    "JetBrains/go-modern-guidelines": [
+      "2026-08-28"
+    ],
     "JuliusBrussee/caveman": [
       "2026-07-03"
     ],
@@ -256,7 +260,8 @@
     ],
     "OpenCut-app/OpenCut": [
       "2026-07-14",
-      "2026-08-17"
+      "2026-08-17",
+      "2026-08-28"
     ],
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
@@ -393,7 +398,8 @@
       "2026-08-02"
     ],
     "actions/checkout": [
-      "2026-07-03"
+      "2026-07-03",
+      "2026-08-28"
     ],
     "addyosmani/agent-skills": [
       "2026-07-07",
@@ -563,6 +569,9 @@
       "2026-07-07",
       "2026-07-15"
     ],
+    "bilawalsidhu/gods-eye-view": [
+      "2026-08-28"
+    ],
     "block/buzz": [
       "2026-07-24"
     ],
@@ -596,7 +605,8 @@
     ],
     "calesthio/OpenMontage": [
       "2026-06-20",
-      "2026-08-12"
+      "2026-08-12",
+      "2026-08-28"
     ],
     "can1357/oh-my-pi": [
       "2026-06-02"
@@ -809,6 +819,9 @@
     ],
     "google/agents-cli": [
       "2026-07-01"
+    ],
+    "google/googletest": [
+      "2026-08-28"
     ],
     "google/guava": [
       "2026-08-07"
@@ -1199,6 +1212,9 @@
     "pascalorg/editor": [
       "2026-07-29"
     ],
+    "pathwaycom/arc-task-gen": [
+      "2026-08-28"
+    ],
     "pbakaus/impeccable": [
       "2026-06-02",
       "2026-07-27"
@@ -1351,6 +1367,9 @@
     "teslamate-org/teslamate": [
       "2026-06-17"
     ],
+    "thedotmack/claude-mem": [
+      "2026-08-28"
+    ],
     "tinyhumansai/openhuman": [
       "2026-08-26"
     ],
@@ -1496,6 +1515,9 @@
     ],
     "zai-org/GLM-5": [
       "2026-06-19"
+    ],
+    "zedeus/nitter": [
+      "2026-08-28"
     ],
     "zgwl/chinese-buy-us-stock-guide": [
       "2026-06-06",
