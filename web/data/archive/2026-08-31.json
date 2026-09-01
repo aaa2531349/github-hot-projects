@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-31",
+  "source": "github-trending",
+  "repositories": [
+    {
+      "repo": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "language": "Swift",
+      "stars": "9,709",
+      "trend": "361 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": "80,299",
+      "trend": "221 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个面向 LLM 的开源网页爬虫和抓取工具，适合为 AI 应用收集网页内容、构建检索数据和自动化采集流程。"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "60,550",
+      "trend": "230 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个 AI agent skill，可跨 Reddit、X、YouTube、HN、Polymarket 和网页研究任意主题，并生成有依据的摘要。"
+    },
+    {
+      "repo": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "stars": "10,262",
+      "trend": "58 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": "93,390",
+      "trend": "96 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars": "9,223",
+      "trend": "115 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars": "827",
+      "trend": "168 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": "5,781",
+      "trend": "62 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "language": "TypeScript",
+      "stars": "10,986",
+      "trend": "126 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    },
+    {
+      "repo": "colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "language": "TypeScript",
+      "stars": "43,663",
+      "trend": "31 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜"
+    }
+  ]
+}
