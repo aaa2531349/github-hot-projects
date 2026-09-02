@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:00:37",
+  "updated_at": "2026-09-02T11:00:31",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -9,7 +9,8 @@
       "2026-07-30"
     ],
     "3b1b/manim": [
-      "2026-08-12"
+      "2026-08-12",
+      "2026-09-02"
     ],
     "666ghj/MiroFish": [
       "2026-06-06"
@@ -137,6 +138,9 @@
     "Free-TV/IPTV": [
       "2026-06-26"
     ],
+    "Gitlawb/openclaude": [
+      "2026-09-02"
+    ],
     "Graphify-Labs/graphify": [
       "2026-07-14"
     ],
@@ -160,6 +164,9 @@
     ],
     "IceWhaleTech/CasaOS": [
       "2026-06-26"
+    ],
+    "Imbad0202/academic-research-skills": [
+      "2026-09-02"
     ],
     "JCodesMore/ai-website-cloner-template": [
       "2026-06-23"
@@ -384,7 +391,8 @@
       "2026-08-27"
     ],
     "VoltAgent/awesome-design-md": [
-      "2026-07-10"
+      "2026-07-10",
+      "2026-09-02"
     ],
     "WhiskeySockets/Baileys": [
       "2026-07-31"
@@ -567,6 +575,9 @@
       "2026-06-22",
       "2026-07-05"
     ],
+    "averygan/reclip": [
+      "2026-09-02"
+    ],
     "awesome-dsh-plugin/awesome-dsh-plugin": [
       "2026-08-17",
       "2026-08-27"
@@ -625,7 +636,8 @@
     ],
     "browser-use/video-use": [
       "2026-06-30",
-      "2026-08-05"
+      "2026-08-05",
+      "2026-09-02"
     ],
     "byoungd/English-level-up-tips": [
       "2026-05-29",
@@ -755,6 +767,9 @@
     "digimata/quill": [
       "2026-08-01",
       "2026-08-17"
+    ],
+    "dmmulroy/anti-slop": [
+      "2026-09-02"
     ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
@@ -968,7 +983,8 @@
     ],
     "iv-org/invidious": [
       "2026-08-02",
-      "2026-08-03"
+      "2026-08-03",
+      "2026-09-02"
     ],
     "jamiepine/voicebox": [
       "2026-06-23",
@@ -1366,6 +1382,9 @@
       "2026-07-23",
       "2026-08-11"
     ],
+    "s1dashu/ip-as-logo-skill": [
+      "2026-09-02"
+    ],
     "santifer/career-ops": [
       "2026-07-03",
       "2026-08-18"
@@ -1583,6 +1602,9 @@
     ],
     "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": [
       "2026-08-17"
+    ],
+    "xiaobright/dsh-anchored-standard": [
+      "2026-09-02"
     ],
     "yc-software/qm": [
       "2026-08-02",
