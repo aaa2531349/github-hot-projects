@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:00:40",
+  "updated_at": "2026-09-07T11:01:24",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -43,6 +43,9 @@
     ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
+    ],
+    "BraveOPotato/FckSignups": [
+      "2026-09-07"
     ],
     "BuilderIO/agent-native": [
       "2026-06-20"
@@ -291,6 +294,9 @@
     "OpenMOSS/MOSS-TTS": [
       "2026-05-29"
     ],
+    "OpenWhispr/openwhispr": [
+      "2026-09-07"
+    ],
     "Osmantic/ODS": [
       "2026-08-30"
     ],
@@ -466,6 +472,9 @@
     "agentskills/agentskills": [
       "2026-07-03"
     ],
+    "aipoch/open-science": [
+      "2026-09-07"
+    ],
     "aishwaryanr/awesome-generative-ai-guide": [
       "2026-06-20"
     ],
@@ -509,6 +518,9 @@
     ],
     "angular/angular": [
       "2026-08-05"
+    ],
+    "anomalyco/opencode": [
+      "2026-09-07"
     ],
     "ansible/ansible": [
       "2026-07-31"
@@ -668,7 +680,8 @@
       "2026-06-02"
     ],
     "cathrynlavery/diagram-design": [
-      "2026-08-13"
+      "2026-08-13",
+      "2026-09-07"
     ],
     "chatwoot/chatwoot": [
       "2026-08-01"
@@ -725,7 +738,8 @@
     ],
     "coreyhaines31/marketingskills": [
       "2026-07-06",
-      "2026-07-14"
+      "2026-07-14",
+      "2026-09-07"
     ],
     "corsairdev/corsair": [
       "2026-08-31"
@@ -971,6 +985,9 @@
     "hugohe3/ppt-master": [
       "2026-08-13"
     ],
+    "humanlayer/skills": [
+      "2026-09-07"
+    ],
     "huxingyi/autoremesher": [
       "2026-07-09"
     ],
@@ -1083,6 +1100,9 @@
     "livekit/agents": [
       "2026-08-04",
       "2026-08-29"
+    ],
+    "llvm/llvm-project": [
+      "2026-09-07"
     ],
     "lobehub/lobehub": [
       "2026-07-17"
@@ -1269,6 +1289,9 @@
     "openai/plugins": [
       "2026-06-06"
     ],
+    "openai/skills": [
+      "2026-09-07"
+    ],
     "openclaw/openclaw-windows-node": [
       "2026-06-05"
     ],
@@ -1410,6 +1433,9 @@
       "2026-07-06",
       "2026-07-23",
       "2026-08-11"
+    ],
+    "ruvnet/ruflo": [
+      "2026-09-07"
     ],
     "s1dashu/ip-as-logo-skill": [
       "2026-09-02"
