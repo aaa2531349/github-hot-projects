@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:01:24",
+  "updated_at": "2026-09-08T11:00:58",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -245,6 +245,9 @@
       "2026-08-14",
       "2026-08-27"
     ],
+    "MoonTechLab/LunaTV": [
+      "2026-09-08"
+    ],
     "MoonshotAI/FlashKDA": [
       "2026-07-30"
     ],
@@ -380,6 +383,9 @@
     "TencentCloud/TencentDB-Agent-Memory": [
       "2026-07-09",
       "2026-08-02"
+    ],
+    "The-Swarm-Corporation/AutoHedge": [
+      "2026-09-08"
     ],
     "ToolJet/ToolJet": [
       "2026-08-16"
@@ -562,7 +568,8 @@
       "2026-08-16"
     ],
     "anywhere-labs/dsh-desktop": [
-      "2026-08-26"
+      "2026-08-26",
+      "2026-09-08"
     ],
     "apache/cassandra": [
       "2026-07-28"
@@ -666,7 +673,8 @@
     ],
     "bytedance/deer-flow": [
       "2026-06-22",
-      "2026-08-02"
+      "2026-08-02",
+      "2026-09-08"
     ],
     "cactus-compute/needle": [
       "2026-08-14"
@@ -962,7 +970,8 @@
       "2026-07-06"
     ],
     "heygen-com/hyperframes": [
-      "2026-06-23"
+      "2026-06-23",
+      "2026-09-08"
     ],
     "hoainho/img2threejs": [
       "2026-07-24"
@@ -1043,6 +1052,9 @@
     "jingyaogong/minimind": [
       "2026-09-01"
     ],
+    "jo-inc/camofox-browser": [
+      "2026-09-08"
+    ],
     "jundot/omlx": [
       "2026-08-18"
     ],
@@ -1090,6 +1102,9 @@
     ],
     "lightningpixel/modly": [
       "2026-08-14"
+    ],
+    "lightpanda-io/browser": [
+      "2026-09-08"
     ],
     "likec4/likec4": [
       "2026-07-23"
@@ -1184,13 +1199,17 @@
       "2026-08-02"
     ],
     "microsoft/markitdown": [
-      "2026-05-29"
+      "2026-05-29",
+      "2026-09-08"
     ],
     "microsoft/terminal": [
       "2026-07-20"
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
+    ],
+    "mksglu/context-mode": [
+      "2026-09-08"
     ],
     "moeru-ai/airi": [
       "2026-07-14",
@@ -1340,7 +1359,8 @@
       "2026-07-15"
     ],
     "pascalorg/editor": [
-      "2026-07-29"
+      "2026-07-29",
+      "2026-09-08"
     ],
     "pathwaycom/arc-task-gen": [
       "2026-08-28"
