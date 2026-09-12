@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:01:04",
+  "updated_at": "2026-09-12T14:31:40",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -360,6 +360,9 @@
     "SmartlyDressedGames/U3-SDK": [
       "2026-07-10"
     ],
+    "Sonarr/Sonarr": [
+      "2026-09-12"
+    ],
     "StarTrail-org/PixelRAG": [
       "2026-06-24"
     ],
@@ -505,6 +508,9 @@
     "allenai/olmocr": [
       "2026-07-02"
     ],
+    "alsk1992/CloddsBot": [
+      "2026-09-12"
+    ],
     "altic-dev/FluidVoice": [
       "2026-06-29",
       "2026-08-14"
@@ -590,6 +596,9 @@
     "argoproj/argo-cd": [
       "2026-07-09"
     ],
+    "armory3d/armorpaint": [
+      "2026-09-12"
+    ],
     "arvids-unavailable/openGym": [
       "2026-09-01"
     ],
@@ -644,7 +653,8 @@
       "2026-07-15"
     ],
     "bilawalsidhu/gods-eye-view": [
-      "2026-08-28"
+      "2026-08-28",
+      "2026-09-12"
     ],
     "blader/humanizer": [
       "2026-09-04"
@@ -1054,6 +1064,9 @@
     "jenkinsci/jenkins": [
       "2026-07-27"
     ],
+    "jihe520/MathModelAgent": [
+      "2026-09-12"
+    ],
     "jingyaogong/minimind": [
       "2026-09-01"
     ],
@@ -1177,6 +1190,9 @@
     "megadose/holehe": [
       "2026-08-14"
     ],
+    "melgarafael/DeskcommCRM": [
+      "2026-09-12"
+    ],
     "meshery/meshery": [
       "2026-06-17"
     ],
@@ -1247,6 +1263,12 @@
     "n0-computer/iroh": [
       "2026-06-18"
     ],
+    "nab138/iloader": [
+      "2026-09-12"
+    ],
+    "nashsu/llm_wiki": [
+      "2026-09-12"
+    ],
     "nautechsystems/nautilus_trader": [
       "2026-08-18"
     ],
@@ -1275,7 +1297,8 @@
       "2026-07-09",
       "2026-07-26",
       "2026-08-05",
-      "2026-09-04"
+      "2026-09-04",
+      "2026-09-12"
     ],
     "ocornut/imgui": [
       "2026-07-28"
@@ -1628,6 +1651,9 @@
     "usestrix/strix": [
       "2026-06-29",
       "2026-08-18"
+    ],
+    "vastsa/PI-Desktop": [
+      "2026-09-12"
     ],
     "veracrypt/VeraCrypt": [
       "2026-06-30"
