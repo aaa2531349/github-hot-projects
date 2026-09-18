@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:00:40",
+  "updated_at": "2026-09-18T11:00:53",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -388,6 +388,12 @@
       "2026-08-09",
       "2026-08-26"
     ],
+    "Tencent/BrowserSkill": [
+      "2026-09-18"
+    ],
+    "Tencent/WeKnora": [
+      "2026-09-18"
+    ],
     "TencentCloud/CubeSandbox": [
       "2026-07-02"
     ],
@@ -456,6 +462,9 @@
     "abi/screenshot-to-code": [
       "2026-08-29"
     ],
+    "abue-ammar/tinycast": [
+      "2026-09-18"
+    ],
     "abus-aikorea/voice-pro": [
       "2026-08-02"
     ],
@@ -467,7 +476,8 @@
       "2026-07-07",
       "2026-07-09",
       "2026-08-07",
-      "2026-08-30"
+      "2026-08-30",
+      "2026-09-18"
     ],
     "affaan-m/ECC": [
       "2026-05-28",
@@ -476,7 +486,8 @@
       "2026-07-03",
       "2026-07-29",
       "2026-09-01",
-      "2026-09-09"
+      "2026-09-09",
+      "2026-09-18"
     ],
     "agalwood/Motrix": [
       "2026-08-18"
@@ -552,7 +563,8 @@
     ],
     "anthropics/claude-code": [
       "2026-05-31",
-      "2026-07-06"
+      "2026-07-06",
+      "2026-09-18"
     ],
     "anthropics/claude-cookbooks": [
       "2026-07-10",
@@ -572,7 +584,8 @@
       "2026-06-20"
     ],
     "anthropics/knowledge-work-plugins": [
-      "2026-05-28"
+      "2026-05-28",
+      "2026-09-18"
     ],
     "anthropics/skills": [
       "2026-05-29",
@@ -739,6 +752,9 @@
     "chthollyphile/folia-major": [
       "2026-07-05"
     ],
+    "cilium/cilium": [
+      "2026-09-18"
+    ],
     "citrolabs/ego-lite": [
       "2026-07-24",
       "2026-08-16"
@@ -747,7 +763,8 @@
       "2026-08-07"
     ],
     "cloudflare/security-audit-skill": [
-      "2026-07-16"
+      "2026-07-16",
+      "2026-09-18"
     ],
     "cobusgreyling/loop-engineering": [
       "2026-07-06"
@@ -1069,7 +1086,8 @@
     "jamiepine/voicebox": [
       "2026-06-23",
       "2026-07-20",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-09-18"
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
