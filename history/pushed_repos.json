@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:00:53",
+  "updated_at": "2026-09-19T17:40:12",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -136,6 +136,9 @@
       "2026-07-17",
       "2026-07-27",
       "2026-08-04"
+    ],
+    "Fission-AI/OpenSpec": [
+      "2026-09-19"
     ],
     "FoundZiGu/GuJumpgate": [
       "2026-06-06"
@@ -397,6 +400,9 @@
     "TencentCloud/CubeSandbox": [
       "2026-07-02"
     ],
+    "TencentCloud/Octop": [
+      "2026-09-19"
+    ],
     "TencentCloud/TencentDB-Agent-Memory": [
       "2026-07-09",
       "2026-08-02"
@@ -501,6 +507,9 @@
     "agentskills/agentskills": [
       "2026-07-03"
     ],
+    "ahmedkhaleel2004/gitdiagram": [
+      "2026-09-19"
+    ],
     "aipoch/open-science": [
       "2026-09-07"
     ],
@@ -554,6 +563,9 @@
     ],
     "angular/angular": [
       "2026-08-05"
+    ],
+    "ankitects/anki": [
+      "2026-09-19"
     ],
     "anomalyco/opencode": [
       "2026-09-07"
@@ -628,7 +640,8 @@
       "2026-09-01"
     ],
     "asciimoo/hister": [
-      "2026-08-26"
+      "2026-08-26",
+      "2026-09-19"
     ],
     "asgeirtj/system_prompts_leaks": [
       "2026-06-22",
@@ -774,6 +787,9 @@
       "2026-07-17",
       "2026-07-18",
       "2026-08-03"
+    ],
+    "coder/coder": [
+      "2026-09-19"
     ],
     "colinhacks/zod": [
       "2026-08-31"
@@ -1516,6 +1532,9 @@
     "run-llama/liteparse": [
       "2026-05-31"
     ],
+    "rustfs/rustfs": [
+      "2026-09-19"
+    ],
     "ruvnet/RuView": [
       "2026-05-31",
       "2026-07-06",
@@ -1588,11 +1607,15 @@
     "steipete/CodexBar": [
       "2026-07-06"
     ],
+    "supabase/supabase": [
+      "2026-09-19"
+    ],
     "superlinked/sie": [
       "2026-09-03"
     ],
     "supermemoryai/supermemory": [
-      "2026-06-02"
+      "2026-06-02",
+      "2026-09-19"
     ],
     "swc-project/swc": [
       "2026-06-17"
@@ -1637,7 +1660,8 @@
       "2026-07-21"
     ],
     "tradesdontlie/tradingview-mcp": [
-      "2026-07-22"
+      "2026-07-22",
+      "2026-09-19"
     ],
     "trycompai/crm": [
       "2026-08-11",
