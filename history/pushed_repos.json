@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:40:12",
+  "updated_at": "2026-09-20T11:00:35",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -293,6 +293,9 @@
     "Nutlope/hallmark": [
       "2026-07-14"
     ],
+    "Open-Dev-Society/OpenStock": [
+      "2026-09-20"
+    ],
     "Open-LLM-VTuber/Open-LLM-VTuber": [
       "2026-06-03"
     ],
@@ -456,7 +459,8 @@
       "2026-08-10"
     ],
     "ZuodaoTech/everyone-can-use-english": [
-      "2026-08-13"
+      "2026-08-13",
+      "2026-09-20"
     ],
     "ZzzLc0405/photo-abstract-editorial": [
       "2026-08-17",
@@ -714,6 +718,9 @@
       "2026-08-27",
       "2026-09-09"
     ],
+    "browser-use/jev-ultrafast": [
+      "2026-09-20"
+    ],
     "browser-use/video-use": [
       "2026-06-30",
       "2026-08-05",
@@ -729,7 +736,8 @@
       "2026-09-08"
     ],
     "cactus-compute/needle": [
-      "2026-08-14"
+      "2026-08-14",
+      "2026-09-20"
     ],
     "calesthio/OpenMontage": [
       "2026-06-20",
@@ -774,6 +782,9 @@
     ],
     "cloudflare/computer": [
       "2026-08-07"
+    ],
+    "cloudflare/quiche": [
+      "2026-09-20"
     ],
     "cloudflare/security-audit-skill": [
       "2026-07-16",
@@ -871,6 +882,9 @@
     ],
     "dmtrKovalenko/fff": [
       "2026-06-02"
+    ],
+    "docling-project/docling": [
+      "2026-09-20"
     ],
     "docusealco/docuseal": [
       "2026-07-18"
@@ -1039,6 +1053,9 @@
     "heygen-com/hyperframes": [
       "2026-06-23",
       "2026-09-08"
+    ],
+    "higgsfield-ai/higgsfield": [
+      "2026-09-20"
     ],
     "hoainho/img2threejs": [
       "2026-07-24"
@@ -1529,6 +1546,9 @@
     "rommapp/romm": [
       "2026-07-05"
     ],
+    "ruanyf/weekly": [
+      "2026-09-20"
+    ],
     "run-llama/liteparse": [
       "2026-05-31"
     ],
@@ -1668,7 +1688,8 @@
       "2026-08-27"
     ],
     "trycua/cua": [
-      "2026-07-20"
+      "2026-07-20",
+      "2026-09-20"
     ],
     "tt-a1i/archify": [
       "2026-08-27"
@@ -1802,6 +1823,9 @@
     ],
     "yorukot/superfile": [
       "2026-07-27"
+    ],
+    "yynxxxxx/Codex-X": [
+      "2026-09-20"
     ],
     "zai-org/GLM-5": [
       "2026-06-19"
