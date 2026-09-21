@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:00:35",
+  "updated_at": "2026-09-21T11:00:55",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -48,7 +48,8 @@
       "2026-09-07"
     ],
     "BuilderIO/agent-native": [
-      "2026-06-20"
+      "2026-06-20",
+      "2026-09-21"
     ],
     "BuilderIO/skills": [
       "2026-07-08"
@@ -439,6 +440,9 @@
     "WhiskeySockets/Baileys": [
       "2026-07-31"
     ],
+    "XiaoDuoYa/codex-with-chatgpt": [
+      "2026-09-21"
+    ],
     "XiaomiMiMo/MiMo-Code": [
       "2026-06-20",
       "2026-06-30",
@@ -598,6 +602,9 @@
     ],
     "anthropics/defending-code-reference-harness": [
       "2026-06-20"
+    ],
+    "anthropics/financial-services": [
+      "2026-09-21"
     ],
     "anthropics/knowledge-work-plugins": [
       "2026-05-28",
@@ -920,6 +927,9 @@
     "esengine/DeepSeek-Reasonix": [
       "2026-08-03"
     ],
+    "eternity4719/HowToLiveBetter": [
+      "2026-09-21"
+    ],
     "ever-co/ever-gauzy": [
       "2026-09-16"
     ],
@@ -1207,6 +1217,9 @@
     "llvm/llvm-project": [
       "2026-09-07"
     ],
+    "lnkiai/m3e-canvas": [
+      "2026-09-21"
+    ],
     "lobehub/lobehub": [
       "2026-07-17"
     ],
@@ -1295,6 +1308,9 @@
     ],
     "microsoft/terminal": [
       "2026-07-20"
+    ],
+    "mihail911/modern-software-dev-assignments": [
+      "2026-09-21"
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
@@ -1453,6 +1469,9 @@
     "paperclipai/paperclip": [
       "2026-08-11"
     ],
+    "paperless-ngx/paperless-ngx": [
+      "2026-09-21"
+    ],
     "paperswithbacktest/awesome-systematic-trading": [
       "2026-07-29"
     ],
@@ -1523,6 +1542,9 @@
     "pytorch/pytorch": [
       "2026-07-03"
     ],
+    "rakanki911/DLSS5-Swapper": [
+      "2026-09-21"
+    ],
     "reconurge/flowsint": [
       "2026-06-03"
     ],
@@ -1572,7 +1594,8 @@
       "2026-08-18"
     ],
     "sapientinc/PRAXIST": [
-      "2026-09-01"
+      "2026-09-01",
+      "2026-09-21"
     ],
     "schollz/croc": [
       "2026-07-22"
@@ -1740,6 +1763,9 @@
     ],
     "veracrypt/VeraCrypt": [
       "2026-06-30"
+    ],
+    "vercel-labs/json-render": [
+      "2026-09-21"
     ],
     "vercel-labs/zero-native": [
       "2026-06-05"
