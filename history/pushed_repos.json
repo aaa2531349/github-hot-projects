@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:00:41",
+  "updated_at": "2026-09-23T11:00:44",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -157,6 +157,9 @@
     "Graphify-Labs/graphify": [
       "2026-07-14"
     ],
+    "HEJustinSun/my-girlfriend-jingtian-latex": [
+      "2026-09-23"
+    ],
     "HKUDS/CLI-Anything": [
       "2026-08-16"
     ],
@@ -177,6 +180,9 @@
     ],
     "Homebrew/BrewUI": [
       "2026-09-16"
+    ],
+    "Human-Agent-Society/reef": [
+      "2026-09-23"
     ],
     "IceWhaleTech/CasaOS": [
       "2026-06-26"
@@ -519,6 +525,9 @@
     "agegr/pi-web": [
       "2026-07-23"
     ],
+    "agent-substrate/substrate": [
+      "2026-09-23"
+    ],
     "agentskills/agentskills": [
       "2026-07-03"
     ],
@@ -739,7 +748,8 @@
     "browser-use/video-use": [
       "2026-06-30",
       "2026-08-05",
-      "2026-09-02"
+      "2026-09-02",
+      "2026-09-23"
     ],
     "byoungd/English-level-up-tips": [
       "2026-05-29",
@@ -861,6 +871,9 @@
     "davidondrej/skills": [
       "2026-07-16"
     ],
+    "davila7/claude-code-templates": [
+      "2026-09-23"
+    ],
     "debpalash/VoiceStudio": [
       "2026-09-03",
       "2026-09-16"
@@ -919,6 +932,9 @@
     ],
     "dottxt-ai/outlines": [
       "2026-07-23"
+    ],
+    "dream-num/univer": [
+      "2026-09-23"
     ],
     "dreamhunter2333/cloudflare_temp_email": [
       "2026-07-23"
@@ -1024,6 +1040,9 @@
     ],
     "google/agents-cli": [
       "2026-07-01"
+    ],
+    "google/ax": [
+      "2026-09-23"
     ],
     "google/googletest": [
       "2026-08-28"
@@ -1145,6 +1164,9 @@
     ],
     "jamwithai/production-agentic-rag-course": [
       "2026-06-03"
+    ],
+    "jaredpalmer/kev": [
+      "2026-09-23"
     ],
     "jaywcjlove/awesome-mac": [
       "2026-08-12"
@@ -1325,6 +1347,9 @@
     ],
     "mikumifa/biliTickerBuy": [
       "2026-06-22"
+    ],
+    "mizorewww/laya-mlx": [
+      "2026-09-23"
     ],
     "mksglu/context-mode": [
       "2026-09-08"
@@ -1669,6 +1694,9 @@
     ],
     "supabase/supabase": [
       "2026-09-19"
+    ],
+    "superdesigndev/treg": [
+      "2026-09-23"
     ],
     "superlinked/sie": [
       "2026-09-03"
