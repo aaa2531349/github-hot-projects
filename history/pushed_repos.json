@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:00:43",
+  "updated_at": "2026-09-29T11:00:51",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -304,6 +304,9 @@
       "2026-08-29",
       "2026-09-16"
     ],
+    "NawfalMotii79/PLFM_RADAR": [
+      "2026-09-29"
+    ],
     "NomaDamas/k-skill": [
       "2026-08-02"
     ],
@@ -437,6 +440,9 @@
     ],
     "The-Swarm-Corporation/AutoHedge": [
       "2026-09-08"
+    ],
+    "TheoLeeCJ/SemIf-OpenJev": [
+      "2026-09-29"
     ],
     "ToolJet/ToolJet": [
       "2026-08-16"
@@ -687,6 +693,9 @@
       "2026-06-22",
       "2026-07-05"
     ],
+    "ashemag/human-atlas": [
+      "2026-09-29"
+    ],
     "averygan/reclip": [
       "2026-09-02"
     ],
@@ -768,6 +777,9 @@
       "2026-05-29",
       "2026-06-22"
     ],
+    "byoungd/up": [
+      "2026-09-29"
+    ],
     "bytedance/deer-flow": [
       "2026-06-22",
       "2026-08-02",
@@ -788,6 +800,9 @@
     "cathrynlavery/diagram-design": [
       "2026-08-13",
       "2026-09-07"
+    ],
+    "cdyforever/how-to-live-better": [
+      "2026-09-29"
     ],
     "chatwoot/chatwoot": [
       "2026-08-01"
@@ -862,6 +877,9 @@
     ],
     "crmne/spotifast": [
       "2026-09-22"
+    ],
+    "cs341-illinois/coursebook": [
+      "2026-09-29"
     ],
     "cupy/cupy": [
       "2026-06-29"
@@ -969,7 +987,8 @@
       "2026-08-03"
     ],
     "eternity4719/HowToLiveBetter": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-29"
     ],
     "ever-co/ever-gauzy": [
       "2026-09-16"
@@ -1272,7 +1291,8 @@
       "2026-09-07"
     ],
     "lnkiai/m3e-canvas": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-29"
     ],
     "lobehub/lobehub": [
       "2026-07-17"
@@ -1670,6 +1690,9 @@
     "schollz/croc": [
       "2026-07-22"
     ],
+    "sdli1995/dlssg_for_sm86": [
+      "2026-09-29"
+    ],
     "semantica-agi/semantica": [
       "2026-08-11"
     ],
@@ -1924,6 +1947,9 @@
       "2026-08-02",
       "2026-08-10",
       "2026-08-27"
+    ],
+    "yi1108/printfilm": [
+      "2026-09-29"
     ],
     "yifanfeng97/Hyper-Extract": [
       "2026-06-19"
