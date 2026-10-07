@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:00:45",
+  "updated_at": "2026-10-07T16:43:39",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -124,6 +124,9 @@
     ],
     "DioxusLabs/dioxus": [
       "2026-07-22"
+    ],
+    "DuarteSantos8/openGym": [
+      "2026-10-07"
     ],
     "Effect-TS/effect": [
       "2026-10-04"
@@ -717,7 +720,8 @@
     ],
     "ayghri/i-have-adhd": [
       "2026-07-22",
-      "2026-09-09"
+      "2026-09-09",
+      "2026-10-07"
     ],
     "baairon/torlink": [
       "2026-07-09",
@@ -759,6 +763,9 @@
     ],
     "bojieli/ai-agent-book": [
       "2026-07-20"
+    ],
+    "boykopovar/AnyPS5": [
+      "2026-10-07"
     ],
     "bozhouDev/codex-orange-book": [
       "2026-07-15"
@@ -807,7 +814,8 @@
     ],
     "cathrynlavery/diagram-design": [
       "2026-08-13",
-      "2026-09-07"
+      "2026-09-07",
+      "2026-10-07"
     ],
     "cdyforever/how-to-live-better": [
       "2026-09-29"
@@ -924,6 +932,9 @@
     "deepfakes/faceswap": [
       "2026-07-30"
     ],
+    "deepseek-ai/DeepGEMM": [
+      "2026-10-07"
+    ],
     "deepseek-ai/DeepSpec": [
       "2026-07-02",
       "2026-07-10",
@@ -987,7 +998,8 @@
       "2026-08-14"
     ],
     "earthtojake/text-to-cad": [
-      "2026-07-22"
+      "2026-07-22",
+      "2026-10-07"
     ],
     "elder-plinius/T3MP3ST": [
       "2026-07-08",
@@ -1350,7 +1362,8 @@
       "2026-07-15",
       "2026-07-26",
       "2026-08-07",
-      "2026-09-04"
+      "2026-09-04",
+      "2026-10-07"
     ],
     "mauriceboe/TREK": [
       "2026-06-26"
@@ -1411,10 +1424,14 @@
       "2026-07-28",
       "2026-07-30"
     ],
+    "morluto/rea": [
+      "2026-10-07"
+    ],
     "msitarzewski/agency-agents": [
       "2026-06-30",
       "2026-07-21",
-      "2026-08-10"
+      "2026-08-10",
+      "2026-10-07"
     ],
     "mukul975/Anthropic-Cybersecurity-Skills": [
       "2026-05-28",
@@ -1796,6 +1813,9 @@
     ],
     "teslamate-org/teslamate": [
       "2026-06-17"
+    ],
+    "tester-army/e2e": [
+      "2026-10-07"
     ],
     "thedotmack/claude-mem": [
       "2026-08-28",
