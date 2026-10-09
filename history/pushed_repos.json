@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:01:31",
+  "updated_at": "2026-10-09T11:01:09",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -661,7 +661,8 @@
     ],
     "anthropics/knowledge-work-plugins": [
       "2026-05-28",
-      "2026-09-18"
+      "2026-09-18",
+      "2026-10-09"
     ],
     "anthropics/skills": [
       "2026-05-29",
@@ -826,7 +827,8 @@
       "2026-10-07"
     ],
     "cdyforever/how-to-live-better": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-09"
     ],
     "chatwoot/chatwoot": [
       "2026-08-01"
@@ -1235,7 +1237,8 @@
       "2026-06-03"
     ],
     "jaredpalmer/kev": [
-      "2026-09-23"
+      "2026-09-23",
+      "2026-10-09"
     ],
     "jaywcjlove/awesome-mac": [
       "2026-08-12"
@@ -1247,7 +1250,8 @@
       "2026-07-27"
     ],
     "jev-chat/jev-chat-jarvis": [
-      "2026-09-24"
+      "2026-09-24",
+      "2026-10-09"
     ],
     "jihe520/MathModelAgent": [
       "2026-09-12"
@@ -1311,6 +1315,9 @@
     ],
     "likec4/likec4": [
       "2026-07-23"
+    ],
+    "liquidslr/system-design-notes": [
+      "2026-10-09"
     ],
     "litu54/DevOps-Interview-Guide": [
       "2026-08-09"
@@ -1749,6 +1756,9 @@
     "shanraisshan/claude-code-best-practice": [
       "2026-06-24"
     ],
+    "shihabal3amri/DiPlay": [
+      "2026-10-09"
+    ],
     "shiyu-coder/Kronos": [
       "2026-05-28",
       "2026-07-23",
@@ -1789,6 +1799,9 @@
     "steipete/CodexBar": [
       "2026-07-06"
     ],
+    "storytold/artcraft": [
+      "2026-10-09"
+    ],
     "storytold/photocraft": [
       "2026-10-08"
     ],
@@ -1825,7 +1838,8 @@
       "2026-08-05"
     ],
     "tamaratran/fast-jev-compaction": [
-      "2026-09-22"
+      "2026-09-22",
+      "2026-10-09"
     ],
     "tashfeenahmed/freellmapi": [
       "2026-08-29"
@@ -2002,6 +2016,9 @@
       "2026-08-10",
       "2026-08-27"
     ],
+    "yetone/magpie": [
+      "2026-10-09"
+    ],
     "yi1108/printfilm": [
       "2026-09-29"
     ],
@@ -2025,7 +2042,8 @@
       "2026-06-19"
     ],
     "zai-org/ZCode": [
-      "2026-09-22"
+      "2026-09-22",
+      "2026-10-09"
     ],
     "zedeus/nitter": [
       "2026-08-28"
