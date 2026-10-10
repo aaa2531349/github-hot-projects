@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T11:01:09",
+  "updated_at": "2026-10-10T11:00:49",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -43,6 +43,9 @@
     ],
     "Automattic/harper": [
       "2026-07-24"
+    ],
+    "BerriAI/litellm": [
+      "2026-10-10"
     ],
     "BigPizzaV3/CodexPlusPlus": [
       "2026-06-03"
@@ -224,6 +227,9 @@
     "K-Dense-AI/scientific-agent-skills": [
       "2026-08-27"
     ],
+    "KKKKhazix/AIHOT": [
+      "2026-10-10"
+    ],
     "Kilo-Org/kilocode": [
       "2026-06-19"
     ],
@@ -267,7 +273,8 @@
       "2026-08-26"
     ],
     "Mak5er/AirCard": [
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-10"
     ],
     "MakazhanAlpamys/Soup": [
       "2026-08-16"
@@ -396,7 +403,8 @@
     ],
     "Robbyant/lingbot-map": [
       "2026-06-29",
-      "2026-07-21"
+      "2026-07-21",
+      "2026-10-10"
     ],
     "RocketChat/Rocket.Chat": [
       "2026-06-18"
@@ -581,7 +589,8 @@
     ],
     "alibaba/open-code-review": [
       "2026-07-24",
-      "2026-09-16"
+      "2026-09-16",
+      "2026-10-10"
     ],
     "alibaba/page-agent": [
       "2026-06-26",
@@ -1433,7 +1442,8 @@
       "2026-06-22"
     ],
     "mizorewww/laya-mlx": [
-      "2026-09-23"
+      "2026-09-23",
+      "2026-10-10"
     ],
     "mksglu/context-mode": [
       "2026-09-08"
@@ -1802,6 +1812,15 @@
     "storytold/artcraft": [
       "2026-10-09"
     ],
+    "storytold/filmcraft": [
+      "2026-10-10"
+    ],
+    "storytold/lightcraft": [
+      "2026-10-10"
+    ],
+    "storytold/pdfcraft": [
+      "2026-10-10"
+    ],
     "storytold/photocraft": [
       "2026-10-08"
     ],
@@ -1892,6 +1911,9 @@
     ],
     "twentyhq/twenty": [
       "2026-05-28"
+    ],
+    "twostraws/SwiftUI-Agent-Skill": [
+      "2026-10-10"
     ],
     "uber/ADR": [
       "2026-08-05"
