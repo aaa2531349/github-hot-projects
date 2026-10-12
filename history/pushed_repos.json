@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:00:49",
+  "updated_at": "2026-10-12T11:00:43",
   "repos": {
     "0xNyk/council-of-high-intelligence": [
       "2026-06-30"
@@ -130,6 +130,9 @@
     ],
     "DuarteSantos8/openGym": [
       "2026-10-07"
+    ],
+    "Ebony-Vinyl/dsh-our-free-model": [
+      "2026-10-12"
     ],
     "Effect-TS/effect": [
       "2026-10-04"
@@ -770,7 +773,8 @@
     ],
     "bilawalsidhu/gods-eye-view": [
       "2026-08-28",
-      "2026-09-12"
+      "2026-09-12",
+      "2026-10-12"
     ],
     "blader/humanizer": [
       "2026-09-04"
@@ -782,7 +786,8 @@
       "2026-07-20"
     ],
     "boykopovar/AnyPS5": [
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-12"
     ],
     "bozhouDev/codex-orange-book": [
       "2026-07-15"
@@ -856,7 +861,8 @@
       "2026-06-20"
     ],
     "chrislgarry/Apollo-11": [
-      "2026-07-22"
+      "2026-07-22",
+      "2026-10-12"
     ],
     "chthollyphile/folia-major": [
       "2026-07-05"
@@ -1355,7 +1361,8 @@
       "2026-06-04",
       "2026-06-23",
       "2026-08-03",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-10-12"
     ],
     "macro-inc/macro": [
       "2026-08-13"
@@ -1454,7 +1461,8 @@
       "2026-07-30"
     ],
     "morluto/rea": [
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-12"
     ],
     "msitarzewski/agency-agents": [
       "2026-06-30",
@@ -1688,7 +1696,8 @@
       "2026-06-17"
     ],
     "pytorch/pytorch": [
-      "2026-07-03"
+      "2026-07-03",
+      "2026-10-12"
     ],
     "rakanki911/DLSS5-Swapper": [
       "2026-09-21"
@@ -1698,6 +1707,9 @@
     ],
     "refactoringhq/tolaria": [
       "2026-06-30"
+    ],
+    "rehan-remade/universal-modder": [
+      "2026-10-12"
     ],
     "revfactory/harness": [
       "2026-05-29",
@@ -1810,7 +1822,8 @@
       "2026-07-06"
     ],
     "storytold/artcraft": [
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-12"
     ],
     "storytold/filmcraft": [
       "2026-10-10"
@@ -1823,6 +1836,9 @@
     ],
     "storytold/photocraft": [
       "2026-10-08"
+    ],
+    "storytold/vectorcraft": [
+      "2026-10-12"
     ],
     "strands-agents/harness-sdk": [
       "2026-09-24"

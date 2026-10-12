@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-12",
+  "source": "github-search-fallback, github-trending",
+  "repositories": [
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "51,870",
+      "trend": "886 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "一个运行在浏览器里的侦察卫星模拟器，使用真实开源空间情报数据，在逼真的 3D 地球上展示实时态势。"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": "104,555",
+      "trend": "315 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "PyTorch 是 Python 深度学习框架，提供张量计算、动态图神经网络和强 GPU 加速能力。"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "36,588",
+      "trend": "548 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "AirLLM 支持在单张 4GB GPU 上运行 70B 模型推理，适合低显存大模型部署和推理优化场景。"
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "74,300",
+      "trend": "466 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "Apollo 11 Guidance Computer 的原始源代码归档，包含指令舱和登月舱相关 AGC 汇编代码。"
+    },
+    {
+      "repo": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "language": "JavaScript",
+      "stars": "9,266",
+      "trend": "created after 2026-09-12",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "dsh 插件，免登录、免注册、免 API Key 使用 DeepSeek V4.1 Flash、Kimi K3 等前沿模型，且免费不限量。"
+    },
+    {
+      "repo": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft",
+      "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+      "language": "Rust",
+      "stars": "7,172",
+      "trend": "created after 2026-09-12",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "VectorCraft 是用纯 Rust 从零编写的开源矢量绘图工具。"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": "6,706",
+      "trend": "created after 2026-09-12",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "让 Claude Code 面向任意 PC 游戏做 mod 的工具集，覆盖侦察、逆向、fal 生成美术/3D/音频、游戏内测试和展示视频。"
+    },
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "110,581",
+      "trend": "25,599 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "5",
+      "description_zh": "用 agents 逆向分析各类目标，从应用行为到原生二进制都能覆盖。"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": "30,398",
+      "trend": "3,952 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "5",
+      "description_zh": "用于将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具。"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "18,322",
+      "trend": "2,957 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "3",
+      "description_zh": "ArtCraft 是面向艺术家、设计师和电影创作者的可控创作引擎。"
+    }
+  ]
+}
