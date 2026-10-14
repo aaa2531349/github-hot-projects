@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-14",
+  "source": "github-search-fallback, github-trending",
+  "repositories": [
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "63,642",
+      "trend": "1,748 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "VoiceStudio 是开源、完全本地运行的 ElevenLabs 替代方案，支持语音克隆、语音设计、视频配音、听写、转录和 646 种语言的有声书生成。"
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": "34,593",
+      "trend": "190 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "开放的 agent skills 工具，可通过 npx skills 快速使用和管理技能。"
+    },
+    {
+      "repo": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": "9,531",
+      "trend": "1,198 stars today",
+      "source": "github-trending",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "跨平台 Xcode 替代工具，可在 Linux、Windows 和 macOS 上用 SwiftPM 构建并部署 iOS 应用。"
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stars": "8,387",
+      "trend": "created after 2026-09-14",
+      "source": "github-search-fallback",
+      "pushed_recently": "false",
+      "history_status": "新上榜",
+      "description_zh": "用于创建真实机器和复杂系统交互式等距插画的 agent skill，可生成精致 SVG，并可选 WebGL shader 和 3D 效果。"
+    },
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "211,790",
+      "trend": "54,679 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "用 agents 逆向分析各种目标，从应用行为到原生二进制都能覆盖。"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "55,563",
+      "trend": "1,961 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "运行在浏览器里的侦察卫星模拟器，使用真实开源空间情报数据，在逼真的 3D 地球上展示实时态势。"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "28,338",
+      "trend": "969 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "面向 AI coding agents 的上下文窗口优化工具，可大幅压缩工具输出、持久化会话记忆，并通过 MCP 和 hooks 管理多平台路由。"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "54,326",
+      "trend": "1,815 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑式图表设计方案，包含 44 种图表类型，输出自包含 HTML + SVG。"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "38,395",
+      "trend": "1,001 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "AirLLM 支持在单张 4GB GPU 上进行 2.8T LLM 推理，适合低显存大模型部署和推理优化场景。"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "25,961",
+      "trend": "4,081 stars today",
+      "source": "github-trending",
+      "pushed_recently": "true",
+      "history_status": "7 天内已推过",
+      "days_since_push": "1",
+      "description_zh": "ArtCraft 是面向艺术家、设计师和电影创作者的可控创作引擎。"
+    }
+  ]
+}
